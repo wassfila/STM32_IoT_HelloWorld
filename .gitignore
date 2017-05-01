@@ -6,10 +6,12 @@
 07_mbed_cli_os_Hello_BluePill/.temp/
 07_mbed_cli_os_Hello_BluePill/BUILD/
 07_mbed_cli_os_Hello_BluePill/mbed-STM32F103C8T6/.hg/
-08_mbed_cli_nRF/.temp/
-08_mbed_cli_nRF/BUILD/
-08_mbed_cli_nRF/mbed/
-08_mbed_cli_nRF/mbed-STM32F103C8T6/
-08_mbed_cli_nRF/nRF24L01P/
+09_mbed_cli_nRF/.temp/
+09_mbed_cli_nRF/BUILD/
+09_mbed_cli_nRF/mbed/
+09_mbed_cli_nRF/mbed-STM32F103C8T6/
+09_mbed_cli_nRF/nRF24L01P/
 libs/mbed/
 *.log
+08_mbed_cli_os_BluePill_Target/.temp/
+08_mbed_cli_os_BluePill_Target/BUILD/
