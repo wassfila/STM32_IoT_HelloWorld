@@ -1,4 +1,3 @@
-#include "stm32f103c8t6.h"
 #include "mbed.h"
 #include "nRF24L01P.h"
 
@@ -11,7 +10,6 @@ DigitalOut myled1(LED1);
 
 int main() 
 {
-	confSysClock();     //Configure system clock (72MHz HSE clock, 48MHz USB clock)
 
 // The nRF24L01+ supports transfers from 1 to 32 bytes, but Sparkfun's
 //  "Nordic Serial Interface Board" (http://www.sparkfun.com/products/9019)

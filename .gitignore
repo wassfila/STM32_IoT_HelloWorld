@@ -15,3 +15,4 @@ libs/mbed/
 *.log
 08_mbed_cli_os_BluePill_Target/.temp/
 08_mbed_cli_os_BluePill_Target/BUILD/
+09_mbed_cli_nRF/mbed-os/
