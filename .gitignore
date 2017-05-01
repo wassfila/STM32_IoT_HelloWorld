@@ -1,0 +1,5 @@
+06_mbed_cli_Hello_BluePill/.temp/
+06_mbed_cli_Hello_BluePill/mbed/
+06_mbed_cli_Hello_BluePill/mbed-STM32F103C8T6/
+06_mbed_cli_Hello_BluePill/BUILD/
+*.pyc
