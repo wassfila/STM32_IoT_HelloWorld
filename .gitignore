@@ -5,7 +5,7 @@
 *.pyc
 07_mbed_cli_os_Hello_BluePill/.temp/
 07_mbed_cli_os_Hello_BluePill/BUILD/
-07_mbed_cli_os_Hello_BluePill/mbed-STM32F103C8T6/
+07_mbed_cli_os_Hello_BluePill/mbed-STM32F103C8T6/.hg/
 08_mbed_cli_nRF/.temp/
 08_mbed_cli_nRF/BUILD/
 08_mbed_cli_nRF/mbed/
