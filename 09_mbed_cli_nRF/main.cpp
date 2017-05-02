@@ -1,7 +1,7 @@
 #include "mbed.h"
 #include "nRF24L01P.h"
 
-Serial pc(USBTX, USBRX); // tx, rx
+Serial pc(PB_10, PB_11, 115200);
 
 nRF24L01P my_nrf24l01p(PB_15, PB_14, PB_13, PB_12, PA_8, PA_9);    // mosi, miso, sck, csn, ce, irq
 
