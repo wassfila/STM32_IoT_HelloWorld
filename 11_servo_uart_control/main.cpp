@@ -6,6 +6,10 @@
 Serial   rasp(PB_10, PB_11, 115200);
 
 DigitalOut myled(PC_13);
+//DigitalOut Uart_Int(PA_8);
+//DigitalOut test_toggle(PA_9);
+DigitalOut Uart_Int(PB_1);
+DigitalOut timeout(PB_0);
 
 Servo servo(PA_11);
 uint8_t s_id;
@@ -54,7 +58,8 @@ void process_uart(uint8_t *buf)
             float spos = val;
             spos /= 10000;
             servo = spos;
-            update = 1;
+            //update = 1;
+            rasp.printf("Servo %d at 0x%02x %02x\n",s_id,buf[3],buf[4]);
         }
     }
     else
@@ -84,21 +89,27 @@ void uart_ticker()
             }
             rasp.printf("\n");
             bufi = 0;
+            timeout = 0;
         }
     }
     else
     {
         is_getting_late = 1;
+        timeout = 1;
     }
     if(update)
     {
-        rasp.printf("Servo %d at %d\n",s_id,val);
+        uint8_t c1,c2;
+        c1 = val / 256;
+        c2 = val % 256;
+        rasp.printf("Servo %d at 0x%02x %02x\n",s_id,c1,c2);
         update = 0;
     }
 }
 
 void uart_callback() 
 {
+    Uart_Int = 1;
     char c = rasp.getc();
     if(bufi < 32)
     {
@@ -123,14 +134,19 @@ void uart_callback()
         bufi = 0;
     }
     is_getting_late = 0;
+    timeout = 0;
+
+    Uart_Int = 0;
 }
 
 void init()
 {
-    //printf(id);
+    Uart_Int = 0;
+    timeout = 0;
+
     rasp.attach(&uart_callback);
     uart_tick.attach(&uart_ticker,0.1);
-    rasp.printf("Hello Servo from STM32\n");
+    rasp.printf("Hello Servo from STM32 change\n");
     servo = 0;
     myled = 1; // LED is ON
     wait(1.0);

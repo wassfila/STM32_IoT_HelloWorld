@@ -1,3 +1,3 @@
 REM $env:Path += ";C:\Users\Wass\.platformio\packages\tool-stlink"
 SET PATH=%PATH%;C:\Users\Wass\.platformio\packages\tool-stlink
-st-flash write .\BUILD\BLUEPILL_F103C8\GCC_ARM\10_hello_servomotor.bin 0x08000000
+st-flash write .\BUILD\BLUEPILL_F103C8\GCC_ARM\11_servo_uart_control.bin 0x08000000
