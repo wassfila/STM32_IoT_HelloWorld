@@ -18,3 +18,5 @@ libs/mbed/
 09_mbed_cli_nRF/mbed-os/
 10_hello_servomotor/BUILD/
 10_hello_servomotor/Servo/
+11_servo_uart_control/BUILD/
+11_servo_uart_control/Servo/
