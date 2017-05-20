@@ -22,8 +22,8 @@ void init()
 
     tick_call.attach(&the_ticker,1);
 
-    mesh.init();
-    mesh.print_nrf();
+    mesh.init();//left to the user for more flexibility on memory management
+    //mesh.print_nrf();
 
     myled = 1; // LED is ON
     wait(1.0);
