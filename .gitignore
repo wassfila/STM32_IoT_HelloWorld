@@ -20,3 +20,5 @@ libs/mbed/
 10_hello_servomotor/Servo/
 11_servo_uart_control/BUILD/
 11_servo_uart_control/Servo/
+12_Hello_Ultrasound/Servo/
+12_Hello_Ultrasound/.vscode/
