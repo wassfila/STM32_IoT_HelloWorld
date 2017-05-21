@@ -7,26 +7,15 @@
 Serial   rasp(PB_10, PB_11, 115200);
 DigitalOut myled(PC_13);
 Ticker tick_call;
-RfMesh mesh(&rasp,PA_0);
-
-#define _NRF24L01P_REG_CONFIG                0x00
-
-void nrf_print_status()
-{
-    int status = mesh.nrf.getStatusRegister();
-    rasp.printf("status:0x%x - ",status);
-    int config = mesh.nrf.getRegister(_NRF24L01P_REG_CONFIG);
-    rasp.printf("config:0x%x - ",config);
-    int irq_status = mesh.nRFIrq.read();
-    rasp.printf("irq pin %d\n",irq_status);
-}
+//nRF Modules 1:Gnd, 2:3.3v, 3:ce,  4:csn, 5:sck, 6:mosi, 7:miso, 8:irq 
+RfMesh mesh(&rasp,           PC_15, PA_4, PA_5,   PA_7,  PA_6,    PA_0);
 
 void the_ticker()
 {
     static int count = 0;
     rasp.printf("tick log cycle:%d - ",count++);
     myled = !myled;
-    nrf_print_status();
+    mesh.nrf_print_status();
 }
 
 #define TRANSFER_SIZE   32
@@ -37,9 +26,9 @@ int rxDataCnt = 0;
 void rf_message_received()
 {
     rasp.printf("rf>>> I got a message\n");
-    if ( mesh.nrf.readable() ) 
+    /*if ( mesh.nrf.readable() ) 
     {
-        nrf_print_status();
+        mesh.nrf_print_status();
         rxDataCnt = mesh.nrf.read( NRF24L01P_PIPE_P0, rxData, sizeof( rxData ) );
 
         // Display the receive buffer contents via the host serial link
@@ -50,7 +39,7 @@ void rf_message_received()
         }
         rasp.printf("\r\n");
 
-    }
+    }*/
 }
 
 void init()
@@ -80,6 +69,7 @@ int main()
     while(1) 
     {
         wait(1.0);
+        /*
         if ( mesh.nrf.readable() ) 
         {
             nrf_print_status();
@@ -93,6 +83,6 @@ int main()
             }
             rasp.printf("\r\n");
 
-        }
+        }*/
     }
 }
