@@ -6,3 +6,4 @@ mbed-os/
 nRF24L01P/
 nrf-mesh/
 .settings/
+.vscode/
