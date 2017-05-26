@@ -1,0 +1,1943 @@
+Rx : 0x df 0 b e2 4 54 b8 0 1 c 0 48 0 8 0 68 53 65 75 54 d6 f3 4f 92 a9 93 77 d1 26 f7 cb 39
+Rx : 0x df 0 b e2 7 54 ce 0 7e fb 0 78 f3 2d fe 51 6a e7 7b 79 fd 6c 63 57 5b f7 ee f5 27 5d d7 7f
+Rx : 0x 7 79 13 12 0 14 0 d9 b9 7f bf fd de dd 7f ff ff ff fb f6 ff f7 ff d7 5d f7 f5 dd ff b5 84 24
+Rx : 0x 4 59 12 13 53 82 7c df 7e 7f 9b d6 d5 ef 57 ea eb 2f 6f 74 a2 96 5a cc 8b cc cd 4e 4d 54 6a aa
+Rx : 0x df 0 7 79 13 12 0 14 0 d9 b9 6b d9 cd d9 95 2c 47 39 78 51 2a c5 14 e4 99 58 b9 32 4a f7 25
+Rx : 0x b e2 10 4b d1 0 80 eb 0 68 c3 84 a3 6a c7 2f 6e 63 4b 79 ea 55 57 cf 6d aa ba be f6 b5 aa 7f
+Rx : 0x df 0 b e2 10 4b d1 0 80 eb 0 68 c3 84 a3 6b 2d e 6e 56 bf bd d6 c9 7d fd fe b5 ef aa 4b 5f
+Rx : 0x 5 bb 6 4a 8 a7 12 1b ec bb df eb 6e ac d6 57 97 d7 67 ed 56 4c 4d ab de 6c d2 fb 8b cf ba d1
+tick log cycle:6 - status:0x0 - config:0x43
+tick log cycle:7 - status:0x0 - config:0x43
+tick log cycle:8 - status:0x0 - config:0x43
+tick log cycle:9 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x de 0 3 e2 50 b c1 7a 83 53 f5 24 94 97 15 eb 78 71 f ad bd bd 25 a7 d1 3b 5a 9d 4d 5b 2c ea
+tick log cycle:10 - status:0x0 - config:0x43
+tick log cycle:11 - status:0x0 - config:0x43
+tick log cycle:12 - status:0x0 - config:0x43
+tick log cycle:13 - status:0x0 - config:0x43
+tick log cycle:14 - status:0x0 - config:0x43
+tick log cycle:15 - status:0x0 - config:0x43
+tick log cycle:16 - status:0x0 - config:0x43
+tick log cycle:17 - status:0x0 - config:0x43
+tick log cycle:18 - status:0x0 - config:0x43
+tick log cycle:19 - status:0x0 - config:0x43
+tick log cycle:20 - status:0x0 - config:0x43
+tick log cycle:21 - status:0x0 - config:0x43
+tick log cycle:22 - status:0x0 - config:0x43
+tick log cycle:23 - status:0x0 - config:0x43
+tick log cycle:24 - status:0x0 - config:0x43
+tick log cycle:25 - status:0x0 - config:0x43
+tick log cycle:26 - status:0x0 - config:0x43
+tick log cycle:27 - status:0x0 - config:0x43
+tick log cycle:28 - status:0x0 - config:0x43
+tick log cycle:29 - status:0x0 - config:0x43
+tick log cycle:30 - status:0x0 - config:0x43
+tick log cycle:31 - status:0x0 - config:0x43
+tick log cycle:32 - status:0x0 - config:0x43
+tick log cycle:33 - status:0x0 - config:0x43
+tick log cycle:34 - status:0x0 - config:0x43
+tick log cycle:35 - status:0x0 - config:0x43
+tick log cycle:36 - status:0x0 - config:0x43
+tick log cycle:37 - status:0x0 - config:0x43
+tick log cycle:38 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 5 bb 6 4a 6 a4 17 78 24 7a b6 5e 3b 1d 29 b4 eb f7 a5 77 cf db 5d 2a df 7e d5 de 65 aa bf 5d
+tick log cycle:39 - status:0x0 - config:0x43
+tick log cycle:40 - status:0x0 - config:0x43
+tick log cycle:41 - status:0x0 - config:0x43
+tick log cycle:42 - status:0x0 - config:0x43
+tick log cycle:43 - status:0x0 - config:0x43
+tick log cycle:44 - status:0x0 - config:0x43
+tick log cycle:45 - status:0x0 - config:0x43
+tick log cycle:46 - status:0x0 - config:0x43
+tick log cycle:47 - status:0x0 - config:0x43
+tick log cycle:48 - status:0x0 - config:0x43
+tick log cycle:49 - status:0x0 - config:0x43
+tick log cycle:50 - status:0x0 - config:0x43
+tick log cycle:51 - status:0x0 - config:0x43
+tick log cycle:52 - status:0x0 - config:0x43
+tick log cycle:53 - status:0x0 - config:0x43
+tick log cycle:54 - status:0x0 - config:0x43
+tick log cycle:55 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x df 0 5 ba 6 6a 6 24 d 56 ba c6 3e b4 b6 52 7d ba 5a dc d5 2a 68 6d 9f 85 56 4a 52 ea a6 16
+tick log cycle:56 - status:0x0 - config:0x43
+tick log cycle:57 - status:0x0 - config:0x43
+tick log cycle:58 - status:0x0 - config:0x43
+tick log cycle:59 - status:0x0 - config:0x43
+tick log cycle:60 - status:0x0 - config:0x43
+tick log cycle:61 - status:0x0 - config:0x43
+tick log cycle:62 - status:0x0 - config:0x43
+tick log cycle:63 - status:0x0 - config:0x43
+tick log cycle:64 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 4 56 c0 0 0 e 0 6b e0 0 68 7f f1 d6 9d 5f b7 d6 bf 5d af 6f b7 8d d7 b3 5a 5a 9a b9
+tick log cycle:65 - status:0x0 - config:0x43
+tick log cycle:66 - status:0x0 - config:0x43
+tick log cycle:67 - status:0x0 - config:0x43
+tick log cycle:68 - status:0x40 - config:0x43
+tick log cycle:69 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 7 79 13 12 0 13 0 d7 b8 6e 6a 95 97 eb 37 72 27 7b 2c ed 71 69 9d 44 55 59 64 78 e8 87 96 a0
+tick log cycle:70 - status:0x0 - config:0x43
+tick log cycle:71 - status:0x0 - config:0x43
+tick log cycle:72 - status:0x0 - config:0x43
+tick log cycle:73 - status:0x0 - config:0x43
+tick log cycle:74 - status:0x0 - config:0x43
+tick log cycle:75 - status:0x0 - config:0x43
+tick log cycle:76 - status:0x0 - config:0x43
+tick log cycle:77 - status:0x0 - config:0x43
+tick log cycle:78 - status:0x0 - config:0x43
+tick log cycle:79 - status:0x0 - config:0x43
+tick log cycle:80 - status:0x0 - config:0x43
+tick log cycle:81 - status:0x0 - config:0x43
+tick log cycle:82 - status:0x0 - config:0x43
+tick log cycle:83 - status:0x0 - config:0x43
+tick log cycle:84 - status:0x0 - config:0x43
+tick log cycle:85 - status:0x0 - config:0x43
+tick log cycle:86 - status:0x0 - config:0x43
+tick log cycle:87 - status:0x0 - config:0x43
+tick log cycle:88 - status:0x0 - config:0x43
+tick log cycle:89 - status:0x0 - config:0x43
+tick log cycle:90 - status:0x0 - config:0x43
+tick log cycle:91 - status:0x0 - config:0x43
+tick log cycle:92 - status:0x0 - config:0x43
+tick log cycle:93 - status:0x0 - config:0x43
+tick log cycle:94 - status:0x0 - config:0x43
+tick log cycle:95 - status:0x0 - config:0x43
+tick log cycle:96 - status:0x0 - config:0x43
+tick log cycle:97 - status:0x0 - config:0x43
+tick log cycle:98 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 10 4b e3 0 81 24 0 68 63 c8 9c 65 bf fb 73 bb 59 f7 fd ed f6 f9 74 fb 9f 5d f7 e1 df 57
+tick log cycle:99 - status:0x0 - config:0x43
+tick log cycle:100 - status:0x0 - config:0x43
+tick log cycle:101 - status:0x0 - config:0x43
+tick log cycle:102 - status:0x0 - config:0x43
+tick log cycle:103 - status:0x0 - config:0x43
+tick log cycle:104 - status:0x0 - config:0x43
+tick log cycle:105 - status:0x0 - config:0x43
+tick log cycle:106 - status:0x0 - config:0x43
+tick log cycle:107 - status:0x0 - config:0x43
+tick log cycle:108 - status:0x0 - config:0x43
+tick log cycle:109 - status:0x0 - config:0x43
+tick log cycle:110 - status:0x0 - config:0x43
+tick log cycle:111 - status:0x0 - config:0x43
+tick log cycle:112 - status:0x0 - config:0x43
+tick log cycle:113 - status:0x0 - config:0x43
+tick log cycle:114 - status:0x0 - config:0x43
+tick log cycle:115 - status:0x0 - config:0x43
+tick log cycle:116 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 5 ba 6 4a 0 a0 12 1a a6 be 47 5d e9 6a a8 a1 d1 bd ef 31 fa b3 5b c1 45 52 52 a3 26 68 29 2a
+tick log cycle:117 - status:0x0 - config:0x43
+tick log cycle:118 - status:0x0 - config:0x43
+tick log cycle:119 - status:0x0 - config:0x43
+tick log cycle:120 - status:0x0 - config:0x43
+tick log cycle:121 - status:0x0 - config:0x43
+tick log cycle:122 - status:0x0 - config:0x43
+tick log cycle:123 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 6 56 c0 0 81 e 0 4b ca 2 d0 7d bf 9b 76 a8 5b 77 f3 b3 cb 73 e9 b7 45 d 51 dd df de
+tick log cycle:124 - status:0x0 - config:0x43
+tick log cycle:125 - status:0x0 - config:0x43
+tick log cycle:126 - status:0x0 - config:0x43
+tick log cycle:127 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 7 79 13 12 0 13 0 d7 b8 6b 58 fc af 54 e6 67 cf ff b5 57 6e 89 96 b 49 99 6e b2 a2 89 48 d2
+tick log cycle:128 - status:0x0 - config:0x43
+tick log cycle:129 - status:0x0 - config:0x43
+tick log cycle:130 - status:0x0 - config:0x43
+tick log cycle:131 - status:0x0 - config:0x43
+tick log cycle:132 - status:0x0 - config:0x43
+tick log cycle:133 - status:0x0 - config:0x43
+tick log cycle:134 - status:0x0 - config:0x43
+tick log cycle:135 - status:0x0 - config:0x43
+tick log cycle:136 - status:0x0 - config:0x43
+tick log cycle:137 - status:0x0 - config:0x43
+tick log cycle:138 - status:0x0 - config:0x43
+tick log cycle:139 - status:0x0 - config:0x43
+tick log cycle:140 - status:0x0 - config:0x43
+tick log cycle:141 - status:0x0 - config:0x43
+tick log cycle:142 - status:0x0 - config:0x43
+tick log cycle:143 - status:0x0 - config:0x43
+tick log cycle:144 - status:0x0 - config:0x43
+tick log cycle:145 - status:0x0 - config:0x43
+tick log cycle:146 - status:0x0 - config:0x43
+tick log cycle:147 - status:0x0 - config:0x43
+tick log cycle:148 - status:0x0 - config:0x43
+tick log cycle:149 - status:0x0 - config:0x43
+tick log cycle:150 - status:0x0 - config:0x43
+tick log cycle:151 - status:0x0 - config:0x43
+tick log cycle:152 - status:0x0 - config:0x43
+tick log cycle:153 - status:0x0 - config:0x43
+tick log cycle:154 - status:0x0 - config:0x43
+tick log cycle:155 - status:0x0 - config:0x43
+tick log cycle:156 - status:0x0 - config:0x43
+tick log cycle:157 - status:0x0 - config:0x43
+tick log cycle:158 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 10 4b e4 0 80 17 0 68 42 7a 61 5f 5a 7b f9 fb 76 c4 6b 3a f6 7a bf fd 5b f1 e6 e7 bb ef
+tick log cycle:159 - status:0x0 - config:0x43
+tick log cycle:160 - status:0x0 - config:0x43
+tick log cycle:161 - status:0x0 - config:0x43
+tick log cycle:162 - status:0x0 - config:0x43
+tick log cycle:163 - status:0x0 - config:0x43
+tick log cycle:164 - status:0x0 - config:0x43
+tick log cycle:165 - status:0x0 - config:0x43
+tick log cycle:166 - status:0x0 - config:0x43
+tick log cycle:167 - status:0x0 - config:0x43
+tick log cycle:168 - status:0x0 - config:0x43
+tick log cycle:169 - status:0x0 - config:0x43
+tick log cycle:170 - status:0x0 - config:0x43
+tick log cycle:171 - status:0x0 - config:0x43
+tick log cycle:172 - status:0x0 - config:0x43
+tick log cycle:173 - status:0x0 - config:0x43
+tick log cycle:174 - status:0x0 - config:0x43
+tick log cycle:175 - status:0x0 - config:0x43
+tick log cycle:176 - status:0x0 - config:0x43
+tick log cycle:177 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 5 bb 6 49 c b2 1c 75 be 77 aa 5b b6 7a fb ac ba a6 75 6f b1 17 2f 4a ea e8 ff 7d 5d 55 ae a2
+tick log cycle:178 - status:0x0 - config:0x43
+tick log cycle:179 - status:0x0 - config:0x43
+tick log cycle:180 - status:0x0 - config:0x43
+tick log cycle:181 - status:0x0 - config:0x43
+tick log cycle:182 - status:0x0 - config:0x43
+tick log cycle:183 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 2 54 c2 0 81 e 0 43 c8 0 50 5b 13 af 93 25 ed 4b fd 2b 2f 4e d1 fe ea 5f fe d3 73 23
+tick log cycle:184 - status:0x0 - config:0x43
+tick log cycle:185 - status:0x0 - config:0x43
+tick log cycle:186 - status:0x0 - config:0x43
+tick log cycle:187 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 7 79 13 12 0 12 0 d5 b7 71 51 eb 9 6c a7 29 b5 6c ae 90 ab ad 2e b6 56 6b 95 2b 68 71 8d 24
+tick log cycle:188 - status:0x0 - config:0x43
+tick log cycle:189 - status:0x0 - config:0x43
+tick log cycle:190 - status:0x0 - config:0x43
+tick log cycle:191 - status:0x0 - config:0x43
+tick log cycle:192 - status:0x0 - config:0x43
+tick log cycle:193 - status:0x0 - config:0x43
+tick log cycle:194 - status:0x0 - config:0x43
+tick log cycle:195 - status:0x0 - config:0x43
+tick log cycle:196 - status:0x0 - config:0x43
+tick log cycle:197 - status:0x0 - config:0x43
+tick log cycle:198 - status:0x0 - config:0x43
+tick log cycle:199 - status:0x0 - config:0x43
+tick log cycle:200 - status:0x0 - config:0x43
+tick log cycle:201 - status:0x0 - config:0x43
+tick log cycle:202 - status:0x0 - config:0x43
+tick log cycle:203 - status:0x0 - config:0x43
+tick log cycle:204 - status:0x0 - config:0x43
+tick log cycle:205 - status:0x0 - config:0x43
+tick log cycle:206 - status:0x0 - config:0x43
+tick log cycle:207 - status:0x0 - config:0x43
+tick log cycle:208 - status:0x0 - config:0x43
+tick log cycle:209 - status:0x0 - config:0x43
+tick log cycle:210 - status:0x0 - config:0x43
+tick log cycle:211 - status:0x0 - config:0x43
+tick log cycle:212 - status:0x0 - config:0x43
+tick log cycle:213 - status:0x0 - config:0x43
+tick log cycle:214 - status:0x0 - config:0x43
+tick log cycle:215 - status:0x0 - config:0x43
+tick log cycle:216 - status:0x0 - config:0x43
+tick log cycle:217 - status:0x0 - config:0x43
+tick log cycle:218 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 10 4b ea 0 81 2a 0 68 35 e3 7d 71 db fc cb e7 7f 52 fd af 5b df cf 4e cf 6e 2b 7d 79 7d
+tick log cycle:219 - status:0x0 - config:0x43
+tick log cycle:220 - status:0x0 - config:0x43
+tick log cycle:221 - status:0x0 - config:0x43
+tick log cycle:222 - status:0x0 - config:0x43
+tick log cycle:223 - status:0x0 - config:0x43
+tick log cycle:224 - status:0x0 - config:0x43
+tick log cycle:225 - status:0x0 - config:0x43
+tick log cycle:226 - status:0x0 - config:0x43
+tick log cycle:227 - status:0x0 - config:0x43
+tick log cycle:228 - status:0x0 - config:0x43
+tick log cycle:229 - status:0x0 - config:0x43
+tick log cycle:230 - status:0x0 - config:0x43
+tick log cycle:231 - status:0x0 - config:0x43
+tick log cycle:232 - status:0x0 - config:0x43
+tick log cycle:233 - status:0x0 - config:0x43
+tick log cycle:234 - status:0x0 - config:0x43
+tick log cycle:235 - status:0x0 - config:0x43
+tick log cycle:236 - status:0x0 - config:0x43
+tick log cycle:237 - status:0x0 - config:0x43
+tick log cycle:238 - status:0x0 - config:0x43
+tick log cycle:239 - status:0x0 - config:0x43
+tick log cycle:240 - status:0x0 - config:0x43
+tick log cycle:241 - status:0x0 - config:0x43
+tick log cycle:242 - status:0x0 - config:0x43
+tick log cycle:243 - status:0x0 - config:0x43
+tick log cycle:244 - status:0x0 - config:0x43
+tick log cycle:245 - status:0x0 - config:0x43
+tick log cycle:246 - status:0x0 - config:0x43
+tick log cycle:247 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 5 bb 6 49 8 b6 10 2b da 69 43 57 9f ce 5c 2d 3f ef 9f d6 95 5b d7 df ac b4 b5 bc f5 5e 1a a9
+tick log cycle:248 - status:0x0 - config:0x43
+tick log cycle:249 - status:0x0 - config:0x43
+tick log cycle:250 - status:0x0 - config:0x43
+tick log cycle:251 - status:0x0 - config:0x43
+tick log cycle:252 - status:0x0 - config:0x43
+tick log cycle:253 - status:0x0 - config:0x43
+tick log cycle:254 - status:0x0 - config:0x43
+tick log cycle:255 - status:0x0 - config:0x43
+tick log cycle:256 - status:0x0 - config:0x43
+tick log cycle:257 - status:0x0 - config:0x43
+tick log cycle:258 - status:0x0 - config:0x43
+tick log cycle:259 - status:0x0 - config:0x43
+tick log cycle:260 - status:0x0 - config:0x43
+tick log cycle:261 - status:0x0 - config:0x43
+tick log cycle:262 - status:0x0 - config:0x43
+tick log cycle:263 - status:0x0 - config:0x43
+tick log cycle:264 - status:0x0 - config:0x43
+tick log cycle:265 - status:0x0 - config:0x43
+tick log cycle:266 - status:0x0 - config:0x43
+tick log cycle:267 - status:0x0 - config:0x43
+tick log cycle:268 - status:0x0 - config:0x43
+tick log cycle:269 - status:0x0 - config:0x43
+tick log cycle:270 - status:0x0 - config:0x43
+tick log cycle:271 - status:0x0 - config:0x43
+tick log cycle:272 - status:0x0 - config:0x43
+tick log cycle:273 - status:0x0 - config:0x43
+tick log cycle:274 - status:0x0 - config:0x43
+tick log cycle:275 - status:0x0 - config:0x43
+tick log cycle:276 - status:0x0 - config:0x43
+tick log cycle:277 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 6 56 c0 0 81 c 0 4a 9b ec 9d 7d e4 92 a9 2d 55 da ad e8 9a b2 8a ab 74 16 5e a1 2a 8b
+tick log cycle:278 - status:0x0 - config:0x43
+tick log cycle:279 - status:0x0 - config:0x43
+tick log cycle:280 - status:0x0 - config:0x43
+tick log cycle:281 - status:0x0 - config:0x43
+tick log cycle:282 - status:0x0 - config:0x43
+tick log cycle:283 - status:0x0 - config:0x43
+tick log cycle:284 - status:0x0 - config:0x43
+tick log cycle:285 - status:0x0 - config:0x43
+tick log cycle:286 - status:0x0 - config:0x43
+tick log cycle:287 - status:0x0 - config:0x43
+tick log cycle:288 - status:0x0 - config:0x43
+tick log cycle:289 - status:0x0 - config:0x43
+tick log cycle:290 - status:0x0 - config:0x43
+tick log cycle:291 - status:0x0 - config:0x43
+tick log cycle:292 - status:0x0 - config:0x43
+tick log cycle:293 - status:0x0 - config:0x43
+tick log cycle:294 - status:0x0 - config:0x43
+tick log cycle:295 - status:0x0 - config:0x43
+tick log cycle:296 - status:0x0 - config:0x43
+tick log cycle:297 - status:0x0 - config:0x43
+tick log cycle:298 - status:0x0 - config:0x43
+tick log cycle:299 - status:0x0 - config:0x43
+tick log cycle:300 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 1 bb 4 9 9 35 19 6a ff eb 4c d1 7f ff 1d b5 33 cd ce fb d3 b7 a5 25 35 da 9b 3c ba 77 d7 56
+tick log cycle:301 - status:0x0 - config:0x43
+tick log cycle:302 - status:0x0 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 6 56 c3 0 81 10 0 6b 90 11 e2 7d ef df ab da 8c 23 14 ac dd ab 99 f3 d7 5f 87 b6 f5 43
+tick log cycle:303 - status:0x0 - config:0x43
+tick log cycle:304 - status:0x0 - config:0x43
+tick log cycle:305 - status:0x0 - config:0x43
+tick log cycle:306 - status:0x0 - config:0x43
+tick log cycle:307 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x 7 79 13 12 0 11 0 d3 b6 68 d3 d9 ee ed 76 ac da 9f ba ef a5 aa aa f5 d6 d5 53 a9 6a cd aa ca
+tick log cycle:308 - status:0x0 - config:0x43
+tick log cycle:309 - status:0x0 - config:0x43
+tick log cycle:310 - status:0x0 - config:0x43
+tick log cycle:311 - status:0x0 - config:0x43
+tick log cycle:312 - status:0x0 - config:0x43
+tick log cycle:313 - status:0x0 - config:0x43
+tick log cycle:314 - status:0x0 - config:0x43
+tick log cycle:315 - status:0x0 - config:0x43
+tick log cycle:316 - status:0x0 - config:0x43
+tick log cycle:317 - status:0x0 - config:0x43
+tick log cycle:318 - status:0x0 - config:0x43
+tick log cycle:319 - status:0x0 - config:0x43
+tick log cycle:320 - status:0x0 - config:0x43
+tick log cycle:321 - status:0x0 - config:0x43
+tick log cycle:322 - status:0x0 - config:0x43
+tick log cycle:323 - status:0x0 - config:0x43
+tick log cycle:324 - status:0x0 - config:0x43
+tick log cycle:325 - status:0x0 - config:0x43
+tick log cycle:326 - status:0x0 - config:0x43
+tick log cycle:327 - status:0x0 - config:0x43
+tick log cycle:328 - status:0x0 - config:0x43
+tick log cycle:329 - status:0x0 - config:0x43
+tick log cycle:330 - status:0x0 - config:0x43
+tick log cycle:331 - status:0x0 - config:0x43
+tick log cycle:332 - status:0x0 - config:0x43
+tick log cycle:333 - status:0x0 - config:0x43
+tick log cycle:334 - status:0x0 - config:0x43
+tick log cycle:335 - status:0x0 - config:0x43
+tick log cycle:336 - status:0x0 - config:0x43
+tick log cycle:337 - status:0x40 - config:0x43
+status:0x40 - config:0x43
+main Rx : 0x b e2 10 4b f4 0 81 41 0 68 24 95 95 5d d5 57 ff f9 97 b4 d4 af ab 5e 7e ed f fd cf ee 7d b6
+tick log cycle:338 - status:0x0 - config:0x43
+tick log cycle:339 - status:0x0 - config:0x43
+tick log cycle:340 - status:0x0 - config:0x43
+tick log cycle:341 - status:0x0 - config:0x43
+tick log cycle:342 - status:0x0 - config:0x43
+tick log cycle:343 - status:0x0 - config:0x43
+tick log cycle:344 - status:0x0 - config:0x43
+tick log cycle:345 - status:0x0 - config:0x43
+tick log cycle:346 - status:0x0 - config:0x43
+tick log cycle:347 - status:0x0 - config:0x43
+tick log cycle:348 - status:0x0 - config:0x43
+tick log cycle:349 - status:0x0 - config:0x43
+tick log cycle:350 - status:0x0 - config:0x43
+tick log cycle:351 - status:0x0 - config:0x43
+tick log cycle:352 - status:0x0 - config:0x43
+tick log cycle:353 - status:0x0 - config:0x43
+tick log cycle:354 - status:0x0 - config:0x43
+tick log cycle:355 - status:0x0 - config:0x43
+tick log cycle:356 - status:0x0 - config:0x43
+tick log cycle:357 - status:0x0 - config:0x43
+Hello STM32 Libs nRF
+Hello Mesh .... Powering Up the nRF
+setAirDataRate()
+setTxAddress()
+setRxAddress()
+setCrcWidth()
+nRF24L01+ Output power : 0 dBm
+nRF24L01+ Frequency    : 2402 MHz
+nRF24L01+ Data Rate    : 2000 kbps
+nRF24L01+ TX Address   : 0x000000000lX
+nRF24L01+ RX Address   : 0x000000000lX
+nRF24L01+ RX Address LSB: 0xe7
+tick log cycle:0 - status:0x0 - config:0x3
+tick log cycle:1 - status:0x0 - config:0x3
+tick log cycle:2 - status:0x40 - config:0x3
+status:0x40 - config:0x3
+main Rx : 0x df 0 5 bb 6 49 7 a3 14 6b db ea 4b 26 ec 54 e5 b5 b a9 25 48 85 4c 24 aa 48 55 cd 76 ab f5
+
+tick log cycle:3 - status:0x0 - config:0x3
+tick log cycle:4 - status:0x0 - config:0x3
+tick log cycle:5 - status:0x0 - config:0x3
+status:0x40 - config:0x3
+main Rx : 0x df 0 b e2 6 56 c1 0 1 c 0 43 e0 8 e4 68 f7 a8 a7 70 54 dc bc 1a 63 f2 b7 6a 28 a7 4d e
+tick log cycle:6 - status:0x0 - config:0x3
+tick log cycle:7 - status:0x0 - config:0x3
+tick log cycle:8 - status:0x0 - config:0x3
+tick log cycle:9 - status:0x0 - config:0x3
+tick log cycle:10 - status:0x0 - config:0x3
+tick log cycle:11 - status:0x0 - config:0x3
+tick log cycle:12 - status:0x0 - config:0x3
+tick log cycle:13 - status:0x0 - config:0x3
+tick log cycle:14 - status:0x0 - config:0x3
+tick log cycle:15 - status:0x0 - config:0x3
+tick log cycle:16 - status:0x0 - config:0x3
+tick log cycle:17 - status:0x0 - config:0x3
+tick log cycle:18 - status:0x0 - config:0x3
+tick log cycle:19 - status:0x0 - config:0x3
+tick log cycle:20 - status:0x0 - config:0x3
+tick log cycle:21 - status:0x0 - config:0x3
+tick log cycle:22 - status:0x0 - config:0x3
+tick log cycle:23 - status:0x0 - config:0x3
+tick log cycle:24 - status:0x0 - config:0x3
+tick log cycle:25 - status:0x0 - config:0x3
+tick log cycle:26 - status:0x0 - config:0x3
+tick log cycle:27 - status:0x0 - config:0x3
+tick log cycle:28 - status:0x0 - config:0x3
+tick log cycle:29 - status:0x0 - config:0x3
+tick log cycle:30 - status:0x0 - config:0x3
+tick log cycle:31 - status:0x0 - config:0x3
+tick log cycle:32 - status:0x0 - config:0x3
+tick log cycle:33 - status:0x0 - config:0x3
+tick log cycle:34 - status:0x0 - config:0x3
+tick log cycle:35 - status:0x0 - config:0x3
+tick log cycle:36 - status:0x40 - config:0x3
+status:0x40 - config:0x3
+main Rx : 0x b e2 10 4b f8 0 81 4d 0 68 1c b9 15 6d 77 72 d9 4b 37 ee 7e 6d 47 d6 f7 bd fc a7 7b 3b 76 af
+tick log cycle:37 - status:0x0 - config:0x3
+tick log cycle:38 - status:0x0 - config:0x3
+tick log cycle:39 - status:0x0 - config:0x3
+tick log cycle:40 - status:0x0 - config:0x3
+tick log cycle:41 - status:0x0 - config:0x3
+tick log cycle:42 - status:0x0 - config:0x3
+tick log cycle:43 - status:0x0 - config:0x3
+tick log cycle:44 - status:0x0 - config:0x3
+tick log cycle:45 - status:0x0 - config:0x3
+tick log cycle:46 - status:0x0 - config:0x3
+tick log cycle:47 - status:0x0 - config:0x3
+tick log cycle:48 - status:0x0 - config:0x3
+tick log cycle:49 - status:0x0 - config:0x3
+tick log cycle:50 - status:0x0 - config:0x3
+tick log cycle:51 - status:0x0 - config:0x3
+tick log cycle:52 - status:0x0 - config:0x3
+tick log cycle:53 - status:0x0 - config:0x3
+tick log cycle:54 - status:0x0 - config:0x3
+tick log cycle:55 - status:0x0 - config:0x3
+tick log cycle:56 - status:0x0 - config:0x3
+tick log cycle:57 - status:0x0 - config:0x3
+tick log cycle:58 - status:0x0 - config:0x3
+tick log cycle:59 - status:0x0 - config:0x3
+tick log cycle:60 - status:0x0 - config:0x3
+tick log cycle:61 - status:0x0 - config:0x3
+tick log cycle:62 - status:0x0 - config:0x3
+tick log cycle:63 - status:0x0 - config:0x3
+tick log cycle:64 - status:0x0 - config:0x3
+tick log cycle:65 - status:0x0 - config:0x3
+status:0x40 - config:0x3
+main Rx : 0x 5 bb 6 48 3 af 12 75 f2 ca fe 2c f0 4e eb fb 71 ae 77 af 6d 2f ae bb 7d c8 5b cd 69 ab ad 6f
+tick log cycle:66 - status:0x0 - config:0x3
+tick log cycle:67 - status:0x0 - config:0x3
+tick log cycle:68 - status:0x0 - config:0x3
+tick log cycle:69 - status:0x0 - config:0x3
+tick log cycle:70 - status:0x0 - config:0x3
+tick log cycle:71 - status:0x0 - config:0x3
+tick log cycle:72 - status:0x0 - config:0x3
+tick log cycle:73 - status:0x0 - config:0x3
+tick log cycle:74 - status:0x0 - config:0x3
+tick log cycle:75 - status:0x0 - config:0x3
+tick log cycle:76 - status:0x0 - config:0x3
+tick log cycle:77 - status:0x0 - config:0x3
+tick log cycle:78 - status:0x0 - config:0x3
+tick log cycle:79 - status:0x0 - config:0x3
+tick log cycle:80 - status:0x0 - config:0x3
+tick log cycle:81 - status:0x0 - config:0x3
+tick log cycle:82 - status:0x0 - config:0x3
+tick log cycle:83 - status:0x0 - config:0x3
+tick log cycle:84 - status:0x0 - config:0x3
+tick log cycle:85 - status:0x0 - config:0x3
+tick log cycle:86 - status:0x0 - config:0x3
+tick log cycle:87 - status:0x0 - config:0x3
+tick log cycle:88 - status:0x0 - config:0x3
+tick log cycle:89 - status:0x0 - config:0x3
+tick log cycle:90 - status:0x0 - config:0x3
+tick log cycle:91 - status:0x0 - config:0x3
+tick log cycle:92 - status:0x0 - config:0x3
+tick log cycle:93 - status:0x0 - config:0x3
+tick log cycle:94 - status:0x0 - config:0x3
+tick log cycle:95 - status:0x0 - config:0x3
+tick log cycle:49 - status:0x0 - config:0x43
+tick log cycle:50 - status:0x0 - config:0x43
+tick log cycle:51 - status:0x0 - config:0x43
+tick log cycle:52 - status:0x0 - config:0x43
+tick log cycle:53 - status:0x0 - config:0x43
+tick log cycle:54 - status:0x0 - config:0x43
+Hello STM32 Libs nRF
+Hello Mesh .... Powering Up the nRF
+setAirDataRate()
+setTxAddress()
+setRxAddress()
+setCrcWidth()
+nRF24L01+ Output power : 0 dBm
+nRF24L01+ Frequency    : 2402 MHz
+nRF24L01+ Data Rate    : 2000 kbps
+nRF24L01+ TX Address   : 0x000000000lX
+nRF24L01+ RX Address   : 0x000000000lX
+nRF24L01+ RX Address LSB: 0xe7
+tick log cycle:0 - status:0x0 - config:0x3
+tick log cycle:1 - status:0x0 - config:0x3
+tick log cycle:2 - status:0x0 - config:0x3
+tick log cycle:3 - status:0x0 - config:0x3
+tick log cycle:4 - status:0x0 - config:0x3
+tick log cycle:5 - status:0x0 - config:0x3
+tick log cycle:6 - status:0x0 - config:0x3
+tick log cycle:7 - status:0x0 - config:0x3
+tick log cycle:8 - status:0x0 - config:0x3
+tick log cycle:9 - status:0x0 - config:0x3
+tick log cycle:10 - status:0x0 - config:0x3
+tick log cycle:11 - status:0x0 - config:0x3
+tick log cycle:12 - status:0x0 - config:0x3
+tick log cycle:13 - status:0x0 - config:0x3
+tick log cycle:14 - status:0x0 - config:0x3
+from nrf IRQ
+rf>>> I got a message
+tick log cycle:15 - status:0x0 - config:0x3
+from nrf IRQ
+rf>>> I got a message
+tick log cycle:16 - status:0x0 - config:0x3
+tick log cycle:17 - status:0x0 - config:0x3
+tick log cycle:18 - status:0x0 - config:0x3
+tick log cycle:19 - status:0x0 - config:0x3
+tick log cycle:20 - status:0x0 - config:0x3
+tick log cycle:21 - status:0x0 - config:0x3
+tick log cycle:22 - status:0x0 - config:0x3
+tick log cycle:23 - status:0x0 - config:0x3
+tick log cycle:24 - status:0x0 - config:0x3
+tick log cycle:25 - status:0x0 - config:0x3
+tick log cycle:26 - status:0x0 - config:0x3
+tick log cycle:27 - status:0x0 - config:0x3
+tick log cycle:28 - status:0x0 - config:0x3
+tick log cycle:29 - status:0x0 - config:0x3
+tick log cycle:30 - status:0x0 - config:0x3
+tick log cycle:31 - status:0x0 - config:0x3
+tick log cycle:32 - status:0x0 - config:0x3
+tick log cycle:100 - status:0x0 - config:0x3
+tick log cycle:101 - status:0x0 - config:0x3
+tick log cycle:102 - status:0x0 - config:0x3
+tick log cycle:103 - status:0x0 - config:0x3
+tick log cycle:104 - status:0x0 - config:0x3
+tick log cycle:105 - status:0x0 - config:0x3
+tick log cycle:106 - status:0x0 - config:0x3
+tick log cycle:107 - status:0x0 - config:0x3
+tick log cycle:108 - status:0x0 - config:0x3
+tick log cycle:109 - status:0x0 - config:0x3
+tick log cycle:110 - status:0x0 - config:0x3
+tick log cycle:111 - status:0x0 - config:0x3
+tick log cycle:112 - status:0x0 - config:0x3
+tick log cycle:113 - status:0x0 - config:0x3
+tick log cycle:114 - status:0x0 - config:0x3
+tick log cycle:115 - status:0x0 - config:0x3
+tick log cycle:116 - status:0x0 - config:0x3
+tick log cycle:117 - status:0x0 - config:0x3
+tick log cycle:118 - status:0x0 - config:0x3
+tick log cycle:119 - status:0x0 - config:0x3
+tick log cycle:120 - status:0x0 - config:0x3
+tick log cycle:121 - status:0x0 - config:0x3
+tick log cycle:122 - status:0x0 - config:0x3
+tick log cycle:123 - status:0x0 - config:0x3
+tick log cycle:124 - status:0x0 - config:0x3
+tick log cycle:125 - status:0x0 - config:0x3
+tick log cycle:126 - status:0x0 - config:0x3
+tick log cycle:127 - status:0x0 - config:0x3
+tick log cycle:128 - status:0x0 - config:0x3
+tick log cycle:129 - status:0x0 - config:0x3
+tick log cycle:130 - status:0x0 - config:0x3
+tick log cycle:131 - status:0x0 - config:0x3
+tick log cycle:132 - status:0x0 - config:0x3
+tick log cycle:133 - status:0x0 - config:0x3
+tick log cycle:134 - status:0x0 - config:0x3
+tick log cycle:135 - status:0x0 - config:0x3
+tick log cycle:136 - status:0x0 - config:0x3
+tick log cycle:137 - status:0x0 - config:0x3
+tick log cycle:138 - status:0x0 - config:0x3
+tick log cycle:139 - status:0x0 - config:0x3
+tick log cycle:140 - status:0x0 - config:0x3
+tick log cycle:141 - status:0x0 - config:0x3
+tick log cycle:142 - status:0x0 - config:0x3
+tick log cycle:143 - status:0x0 - config:0x3
+tick log cycle:144 - status:0x0 - config:0x3
+tick log cycle:145 - status:0x0 - config:0x3
+tick log cycle:146 - status:0x0 - config:0x3
+tick log cycle:147 - status:0x0 - config:0x3
+tick log cycle:148 - status:0x0 - config:0x3
+tick log cycle:149 - status:0x0 - config:0x3
+tick log cycle:150 - status:0x0 - config:0x3
+tick log cycle:151 - status:0x0 - config:0x3
+tick log cycle:152 - status:0x0 - config:0x3
+tick log cycle:153 - status:0x0 - config:0x3
+tick log cycle:154 - status:0x0 - config:0x3
+tick log cycle:155 - status:0x0 - config:0x3
+tick log cycle:156 - status:0x0 - config:0x3
+tick log cycle:157 - status:0x0 - config:0x3
+tick log cycle:158 - status:0x0 - config:0x3
+tick log cycle:159 - status:0x0 - config:0x3
+tick log cycle:160 - status:0x0 - config:0x3
+tick log cycle:161 - status:0x0 - config:0x3
+tick log cycle:162 - status:0x0 - config:0x3
+tick log cycle:163 - status:0x0 - config:0x3
+tick log cycle:164 - status:0x0 - config:0x3
+tick log cycle:165 - status:0x0 - config:0x3
+tick log cycle:166 - status:0x0 - config:0x3
+tick log cycle:167 - status:0x0 - config:0x3
+tick log cycle:168 - status:0x0 - config:0x3
+tick log cycle:169 - status:0x0 - config:0x3
+tick log cycle:170 - status:0x0 - config:0x3
+tick log cycle:171 - status:0x0 - config:0x3
+tick log cycle:172 - status:0x0 - config:0x3
+tick log cycle:173 - status:0x0 - config:0x3
+tick log cycle:174 - status:0x0 - config:0x3
+tick log cycle:175 - status:0x0 - config:0x3
+tick log cycle:176 - status:0x0 - config:0x3
+tick log cycle:177 - status:0x0 - config:0x3
+tick log cycle:178 - status:0x0 - config:0x3
+tick log cycle:179 - status:0x0 - config:0x3
+tick log cycle:180 - status:0x0 - config:0x3
+tick log cycle:181 - status:0x0 - config:0x3
+tick log cycle:182 - status:0x0 - config:0x3
+tick log cycle:183 - status:0x0 - config:0x3
+tick log cycle:184 - status:0x0 - config:0x3
+tick log cycle:185 - status:0x0 - config:0x3
+tick log cycle:186 - status:0x0 - config:0x3
+tick log cycle:187 - status:0x0 - config:0x3
+tick log cycle:188 - status:0x0 - config:0x3
+tick log cycle:189 - status:0x0 - config:0x3
+tick log cycle:190 - status:0x0 - config:0x3
+tick log cycle:191 - status:0x0 - config:0x3
+tick log cycle:192 - status:0x0 - config:0x3
+tick log cycle:193 - status:0x0 - config:0x3
+tick log cycle:194 - status:0x0 - config:0x3
+tick log cycle:195 - status:0x0 - config:0x3
+tick log cycle:196 - status:0x0 - config:0x3
+tick log cycle:197 - status:0x0 - config:0x3
+tick log cycle:198 - status:0x0 - config:0x3
+tick log cycle:199 - status:0x0 - config:0x3
+tick log cycle:200 - status:0x0 - config:0x3
+tick log cycle:201 - status:0x0 - config:0x3
+tick log cycle:202 - status:0x0 - config:0x3
+tick log cycle:203 - status:0x0 - config:0x3
+tick log cycle:204 - status:0x0 - config:0x3
+tick log cycle:205 - status:0x0 - config:0x3
+tick log cycle:206 - status:0x0 - config:0x3
+tick log cycle:207 - status:0x0 - config:0x3
+tick log cycle:208 - status:0x0 - config:0x3
+tick log cycle:209 - status:0x0 - config:0x3
+tick log cycle:210 - status:0x0 - config:0x3
+tick log cycle:211 - status:0x0 - config:0x3
+tick log cycle:212 - status:0x0 - config:0x3
+tick log cycle:213 - status:0x0 - config:0x3
+tick log cycle:214 - status:0x0 - config:0x3
+tick log cycle:215 - status:0x0 - config:0x3
+tick log cycle:216 - status:0x0 - config:0x3
+tick log cycle:217 - status:0x0 - config:0x3
+tick log cycle:218 - status:0x0 - config:0x3
+tick log cycle:219 - status:0x0 - config:0x3
+tick log cycle:220 - status:0x0 - config:0x3
+tick log cycle:221 - status:0x0 - config:0x3
+tick log cycle:222 - status:0x0 - config:0x3
+tick log cycle:223 - status:0x0 - config:0x3
+tick log cycle:224 - status:0x0 - config:0x3
+tick log cycle:225 - status:0x0 - config:0x3
+Hello STM32 Libs nRF
+Hello Mesh .... Powering Up the nRF
+setAirDataRate()
+setTxAddress()
+setRxAddress()
+setCrcWidth()
+nRF24L01+ Output power : 0 dBm
+nRF24L01+ Frequency    : 2402 MHz
+nRF24L01+ Data Rate    : 2000 kbps
+nRF24L01+ TX Address   : 0x000000000lX
+nRF24L01+ RX Address   : 0x000000000lX
+nRF24L01+ RX Address LSB: 0xe7
+tick log cycle:0 - status:0x0 - config:0x3
+tick log cycle:1 - status:0x0 - config:0x3
+tick log cycle:2 - status:0x0 - config:0x3
+tick log cycle:3 - status:0x0 - config:0x3
+tick log cycle:4 - status:0x0 - config:0x3
+tick log cycle:5 - status:0x0 - config:0x3
+tick log cycle:6 - status:0x0 - config:0x3
+tick log cycle:7 - status:0x0 - config:0x3
+tick log cycle:8 - status:0x0 - config:0x3
+tick log cycle:9 - status:0x0 - config:0x3
+tick log cycle:10 - status:0x0 - config:0x3
+tick log cycle:11 - status:0x0 - config:0x3
+tick log cycle:12 - status:0x0 - config:0x3
+tick log cycle:13 - status:0x0 - config:0x3
+tick log cycle:14 - status:0x0 - config:0x3
+tick log cycle:15 - status:0x0 - config:0x3
+tick log cycle:16 - status:0x0 - config:0x3
+tick log cycle:17 - status:0x0 - config:0x3
+tick log cycle:18 - status:0x0 - config:0x3
+tick log cycle:19 - status:0x0 - config:0x3
+tick log cycle:20 - status:0x0 - config:0x3
+tick log cycle:21 - status:0x0 - config:0x3
+tick log cycle:22 - status:0x0 - config:0x3
+tick log cycle:23 - status:0x0 - config:0x3
+tick log cycle:24 - status:0x0 - config:0x3
+tick log cycle:25 - status:0x0 - config:0x3
+tick log cycle:26 - status:0x0 - config:0x3
+tick log cycle:27 - status:0x0 - config:0x3
+tick log cycle:28 - status:0x0 - config:0x3
+tick log cycle:29 - status:0x0 - config:0x3
+tick log cycle:30 - status:0x0 - config:0x3
+tick log cycle:31 - status:0x0 - config:0x3
+tick log cycle:32 - status:0x0 - config:0x3
+tick log cycle:33 - status:0x0 - config:0x3
+tick log cycle:34 - status:0x0 - config:0x3
+tick log cycle:35 - status:0x0 - config:0x3
+tick log cycle:36 - status:0x0 - config:0x3
+tick log cycle:37 - status:0x0 - config:0x3
+tick log cycle:38 - status:0x0 - config:0x3
+tick log cycle:39 - status:0x0 - config:0x3
+tick log cycle:40 - status:0x0 - config:0x3
+tick log cycle:41 - status:0x0 - config:0x3
+tick log cycle:42 - status:0x0 - config:0x3
+tick log cycle:43 - status:0x0 - config:0x3
+tick log cycle:44 - status:0x0 - config:0x3
+tick log cycle:45 - status:0x0 - config:0x3
+tick log cycle:46 - status:0x0 - config:0x3
+tick log cycle:47 - status:0x0 - config:0x3
+tick log cycle:48 - status:0x0 - config:0x3
+tick log cycle:49 - status:0x0 - config:0x3
+tick log cycle:1 - status:0xe - config:0x3
+tick log cycle:2 - status:0xe - config:0x3
+tick log cycle:3 - status:0xe - config:0x3
+tick log cycle:4 - status:0xe - config:0x3
+tick log cycle:5 - status:0xe - config:0x3
+tick log cycle:6 - status:0xe - config:0x3
+tick log cycle:7 - status:0xe - config:0x3
+tick log cycle:8 - status:0xe - config:0x3
+tick log cycle:9 - status:0xe - config:0x3
+tick log cycle:10 - status:0xe - config:0x3
+tick log cycle:11 - status:0xe - config:0x3
+tick log cycle:12 - status:0xe - config:0x3
+tick log cycle:13 - status:0xe - config:0x3
+tick log cycle:14 - status:0xe - config:0x3
+tick log cycle:15 - status:0xe - config:0x3
+tick log cycle:16 - status:0xe - config:0x3
+tick log cycle:17 - status:0xe - config:0x3
+tick log cycle:18 - status:0xe - config:0x3
+tick log cycle:19 - status:0xe - config:0x3
+tick log cycle:20 - status:0xe - config:0x3
+tick log cycle:21 - status:0xe - config:0x3
+tick log cycle:22 - status:0xe - config:0x3
+tick log cycle:23 - status:0xe - config:0x3
+tick log cycle:24 - status:0xe - config:0x3
+tick log cycle:25 - status:0xe - config:0x3
+tick log cycle:26 - status:0xe - config:0x3
+tick log cycle:27 - status:0xe - config:0x3
+tick log cycle:28 - status:0xe - config:0x3
+tick log cycle:29 - status:0xe - config:0x3
+tick log cycle:30 - status:0xe - config:0x3
+tick log cycle:31 - status:0xe - config:0x3
+from nrf IRQ
+rf>>> I got a message
+from nrf IRQ
+rf>>> I got a message
+from nrf IRQ
+rf>>> I got a message
+tick log cycle:32 - status:0x0 - config:0x3
+tick log cycle:33 - status:0x0 - config:0x3
+tick log cycle:34 - status:0x0 - config:0x3
+tick log cycle:35 - status:0x0 - config:0x3
+tick log cycle:36 - status:0x0 - config:0x3
+tick log cycle:37 - status:0x0 - config:0x3
+tick log cycle:38 - status:0x0 - config:0x3
+tick log cycle:39 - status:0x0 - config:0x3
+tick log cycle:40 - status:0x0 - config:0x3
+tick log cycle:41 - status:0x0 - config:0x3
+tick log cycle:42 - status:0x0 - config:0x3
+tick log cycle:43 - status:0x0 - config:0x3
+tick log cycle:44 - status:0x0 - config:0x3
+tick log cycle:45 - status:0x0 - config:0x3
+tick log cycle:46 - status:0x0 - config:0x3
+tick log cycle:47 - status:0x0 - config:0x3
+tick log cycle:48 - status:0x0 - config:0x3
+tick log cycle:49 - status:0x0 - config:0x3
+tick log cycle:50 - status:0x0 - config:0x3
+tick log cycle:51 - status:0x0 - config:0x3
+tick log cycle:52 - status:0x0 - config:0x3
+tick log cycle:53 - status:0x0 - config:0x3
+tick log cycle:54 - status:0x0 - config:0x3
+tick log cycle:55 - status:0x0 - config:0x3
+tick log cycle:56 - status:0x0 - config:0x3
+tick log cycle:57 - status:0x0 - config:0x3
+tick log cycle:58 - status:0x0 - config:0x3
+tick log cycle:59 - status:0x0 - config:0x3
+tick log cycle:60 - status:0x0 - config:0x3
+tick log cycle:61 - status:0x0 - config:0x3
+tick log cycle:62 - status:0x0 - config:0x3
+tick log cycle:63 - status:0x0 - config:0x3
+tick log cycle:64 - status:0x0 - config:0x3
+tick log cycle:65 - status:0x0 - config:0x3
+tick log cycle:66 - status:0x0 - config:0x3
+tick log cycle:67 - status:0x0 - config:0x3
+tick log cycle:68 - status:0x0 - config:0x3
+tick log cycle:69 - status:0x0 - config:0x3
+tick log cycle:70 - status:0x0 - config:0x3
+tick log cycle:71 - status:0x0 - config:0x3
+tick log cycle:72 - status:0x0 - config:0x3
+tick log cycle:73 - status:0x0 - config:0x3
+tick log cycle:74 - status:0x0 - config:0x3
+tick log cycle:75 - status:0x0 - config:0x3
+tick log cycle:76 - status:0x0 - config:0x3
+tick log cycle:77 - status:0x0 - config:0x3
+tick log cycle:78 - status:0x0 - config:0x3
+tick log cycle:79 - status:0x0 - config:0x3
+tick log cycle:80 - status:0x0 - config:0x3
+tick log cycle:81 - status:0x0 - config:0x3
+tick log cycle:82 - status:0x0 - config:0x3
+tick log cycle:83 - status:0x0 - config:0x3
+tick log cycle:84 - status:0x0 - config:0x3
+tick log cycle:85 - status:0x0 - config:0x3
+tick log cycle:86 - status:0x0 - config:0x3
+tick log cycle:87 - status:0x0 - config:0x3
+tick log cycle:88 - status:0x0 - config:0x3
+tick log cycle:89 - status:0x0 - config:0x3
+tick log cycle:90 - status:0x0 - config:0x3
+tick log cycle:91 - status:0x0 - config:0x3
+tick log cycle:92 - status:0x0 - config:0x3
+tick log cycle:93 - status:0x0 - config:0x3
+tick log cycle:94 - status:0x0 - config:0x3
+tick log cycle:95 - status:0x0 - config:0x3
+tick log cycle:96 - status:0x0 - config:0x3
+tick log cycle:97 - status:0x0 - config:0x3
+tick log cycle:98 - status:0x0 - config:0x3
+tick log cycle:99 - status:0x0 - config:0x3
+tick log cycle:100 - status:0x0 - config:0x3
+tick log cycle:101 - status:0x0 - config:0x3
+tick log cycle:102 - status:0x0 - config:0x3
+tick log cycle:103 - status:0x0 - config:0x3
+tick log cycle:104 - status:0x0 - config:0x3
+tick log cycle:105 - status:0x0 - config:0x3
+tick log cycle:106 - status:0x0 - config:0x3
+tick log cycle:107 - status:0x0 - config:0x3
+tick log cycle:108 - status:0x0 - config:0x3
+tick log cycle:109 - status:0x0 - config:0x3
+tick log cycle:110 - status:0x0 - config:0x3
+tick log cycle:111 - status:0x0 - config:0x3
+tick log cycle:112 - status:0x0 - config:0x3
+tick log cycle:113 - status:0x0 - config:0x3
+tick log cycle:114 - status:0x0 - config:0x3
+tick log cycle:115 - status:0x0 - config:0x3
+tick log cycle:116 - status:0x0 - config:0x3
+tick log cycle:117 - status:0x0 - config:0x3
+tick log cycle:118 - status:0x0 - config:0x3
+tick log cycle:119 - status:0x0 - config:0x3
+tick log cycle:120 - status:0x0 - config:0x3
+tick log cycle:121 - status:0x0 - config:0x3
+tick log cycle:122 - status:0x0 - config:0x3
+tick log cycle:123 - status:0x0 - config:0x3
+tick log cycle:124 - status:0x0 - config:0x3
+tick log cycle:125 - status:0x0 - config:0x3
+tick log cycle:126 - status:0x0 - config:0x3
+tick log cycle:127 - status:0x0 - config:0x3
+tick log cycle:128 - status:0x0 - config:0x3
+tick log cycle:129 - status:0x0 - config:0x3
+tick log cycle:130 - status:0x0 - config:0x3
+tick log cycle:131 - status:0x0 - config:0x3
+tick log cycle:132 - status:0x0 - config:0x3
+tick log cycle:133 - status:0x0 - config:0x3
+tick log cycle:134 - status:0x0 - config:0x3
+tick log cycle:135 - status:0x0 - config:0x3
+tick log cycle:136 - status:0x0 - config:0x3
+tick log cycle:137 - status:0x0 - config:0x3
+tick log cycle:138 - status:0x0 - config:0x3
+tick log cycle:139 - status:0x0 - config:0x3
+tick log cycle:140 - status:0x0 - config:0x3
+tick log cycle:141 - status:0x0 - config:0x3
+tick log cycle:142 - status:0x0 - config:0x3
+tick log cycle:143 - status:0x0 - config:0x3
+tick log cycle:144 - status:0x0 - config:0x3
+tick log cycle:145 - status:0x0 - config:0x3
+tick log cycle:146 - status:0x0 - config:0x3
+tick log cycle:147 - status:0x0 - config:0x3
+tick log cycle:148 - status:0x0 - config:0x3
+tick log cycle:149 - status:0x0 - config:0x3
+tick log cycle:150 - status:0x0 - config:0x3
+tick log cycle:151 - status:0x0 - config:0x3
+tick log cycle:152 - status:0x0 - config:0x3
+tick log cycle:153 - status:0x0 - config:0x3
+tick log cycle:154 - status:0x0 - config:0x3
+tick log cycle:155 - status:0x0 - config:0x3
+tick log cycle:156 - status:0x0 - config:0x3
+tick log cycle:157 - status:0x0 - config:0x3
+tick log cycle:158 - status:0x0 - config:0x3
+tick log cycle:159 - status:0x0 - config:0x3
+tick log cycle:160 - status:0x0 - config:0x3
+tick log cycle:161 - status:0x0 - config:0x3
+tick log cycle:162 - status:0x0 - config:0x3
+tick log cycle:163 - status:0x0 - config:0x3
+tick log cycle:164 - status:0x0 - config:0x3
+tick log cycle:165 - status:0x0 - config:0x3
+tick log cycle:166 - status:0x0 - config:0x3
+tick log cycle:167 - status:0x0 - config:0x3
+tick log cycle:168 - status:0x0 - config:0x3
+tick log cycle:169 - status:0x0 - config:0x3
+tick log cycle:170 - status:0x0 - config:0x3
+tick log cycle:171 - status:0x0 - config:0x3
+tick log cycle:172 - status:0x0 - config:0x3
+tick log cycle:173 - status:0x0 - config:0x3
+tick log cycle:174 - status:0x0 - config:0x3
+tick log cycle:175 - status:0x0 - config:0x3
+tick log cycle:176 - status:0x0 - config:0x3
+tick log cycle:177 - status:0x0 - config:0x3
+tick log cycle:178 - status:0x0 - config:0x3
+tick log cycle:179 - status:0x0 - config:0x3
+tick log cycle:180 - status:0x0 - config:0x3
+tick log cycle:181 - status:0x0 - config:0x3
+tick log cycle:182 - status:0x0 - config:0x3
+tick log cycle:183 - status:0x0 - config:0x3
+tick log cycle:184 - status:0x0 - config:0x3
+tick log cycle:185 - status:0x0 - config:0x3
+tick log cycle:186 - status:0x0 - config:0x3
+tick log cycle:187 - status:0x0 - config:0x3
+tick log cycle:188 - status:0x0 - config:0x3
+tick log cycle:189 - status:0x0 - config:0x3
+tick log cycle:190 - status:0x0 - config:0x3
+tick log cycle:191 - status:0x0 - config:0x3
+tick log cycle:192 - status:0x0 - config:0x3
+tick log cycle:193 - status:0x0 - config:0x3
+tick log cycle:194 - status:0x0 - config:0x3
+tick log cycle:195 - status:0x0 - config:0x3
+tick log cycle:196 - status:0x0 - config:0x3
+tick log cycle:197 - status:0x0 - config:0x3
+tick log cycle:198 - status:0x0 - config:0x3
+tick log cycle:199 - status:0x0 - config:0x3
+tick log cycle:200 - status:0x0 - config:0x3
+tick log cycle:201 - status:0x0 - config:0x3
+tick log cycle:202 - status:0x0 - config:0x3
+tick log cycle:203 - status:0x0 - config:0x3
+tick log cycle:204 - status:0x0 - config:0x3
+tick log cycle:205 - status:0x0 - config:0x3
+tick log cycle:206 - status:0x0 - config:0x3
+tick log cycle:207 - status:0x0 - config:0x3
+tick log cycle:208 - status:0x0 - config:0x3
+tick log cycle:209 - status:0x0 - config:0x3
+tick log cycle:210 - status:0x0 - config:0x3
+tick log cycle:211 - status:0x0 - config:0x3
+tick log cycle:212 - status:0x0 - config:0x3
+tick log cycle:213 - status:0x0 - config:0x3
+tick log cycle:214 - status:0x0 - config:0x3
+tick log cycle:215 - status:0x0 - config:0x3
+tick log cycle:216 - status:0x0 - config:0x3
+tick log cycle:217 - status:0x0 - config:0x3
+tick log cycle:218 - status:0x0 - config:0x3
+tick log cycle:219 - status:0x0 - config:0x3
+tick log cycle:220 - status:0x0 - config:0x3
+tick log cycle:221 - status:0x0 - config:0x3
+tick log cycle:222 - status:0x0 - config:0x3
+tick log cycle:223 - status:0x0 - config:0x3
+tick log cycle:224 - status:0x0 - config:0x3
+tick log cycle:225 - status:0x0 - config:0x3
+tick log cycle:226 - status:0x0 - config:0x3
+tick log cycle:227 - status:0x0 - config:0x3
+tick log cycle:228 - status:0x0 - config:0x3
+tick log cycle:229 - status:0x0 - config:0x3
+tick log cycle:230 - status:0x0 - config:0x3
+tick log cycle:231 - status:0x0 - config:0x3
+tick log cycle:232 - status:0x0 - config:0x3
+tick log cycle:233 - status:0x0 - config:0x3
+tick log cycle:234 - status:0x0 - config:0x3
+tick log cycle:235 - status:0x0 - config:0x3
+tick log cycle:236 - status:0x0 - config:0x3
+tick log cycle:237 - status:0x0 - config:0x3
+tick log cycle:238 - status:0x0 - config:0x3
+tick log cycle:239 - status:0x0 - config:0x3
+tick log cycle:240 - status:0x0 - config:0x3
+tick log cycle:241 - status:0x0 - config:0x3
+tick log cycle:242 - status:0x0 - config:0x3
+tick log cycle:243 - status:0x0 - config:0x3
+tick log cycle:244 - status:0x0 - config:0x3
+tick log cycle:245 - status:0x0 - config:0x3
+tick log cycle:246 - status:0x0 - config:0x3
+tick log cycle:247 - status:0x0 - config:0x3
+tick log cycle:248 - status:0x0 - config:0x3
+tick log cycle:249 - status:0x0 - config:0x3
+tick log cycle:250 - status:0x0 - config:0x3
+tick log cycle:251 - status:0x0 - config:0x3
+tick log cycle:252 - status:0x0 - config:0x3
+tick log cycle:253 - status:0x0 - config:0x3
+tick log cycle:254 - status:0x0 - config:0x3
+tick log cycle:255 - status:0x0 - config:0x3
+tick log cycle:256 - status:0x0 - config:0x3
+tick log cycle:257 - status:0x0 - config:0x3
+tick log cycle:258 - status:0x0 - config:0x3
+tick log cycle:259 - status:0x0 - config:0x3
+tick log cycle:260 - status:0x0 - config:0x3
+tick log cycle:261 - status:0x0 - config:0x3
+tick log cycle:262 - status:0x0 - config:0x3
+tick log cycle:263 - status:0x0 - config:0x3
+tick log cycle:264 - status:0x0 - config:0x3
+tick log cycle:265 - status:0x0 - config:0x3
+tick log cycle:266 - status:0x0 - config:0x3
+tick log cycle:267 - status:0x0 - config:0x3
+tick log cycle:268 - status:0x0 - config:0x3
+Hello STM32 Libs nRF
+Hello Mesh .... Powering Up the nRF
+setAirDataRate()
+setTxAddress()
+setRxAddress()
+setCrcWidth()
+nRF24L01+ Output power : 0 dBm
+nRF24L01+ Frequency    : 2402 MHz
+nRF24L01+ Data Rate    : 2000 kbps
+nRF24L01+ TX Address   : 0x000000000lX
+nRF24L01+ RX Address   : 0x000000000lX
+nRF24L01+ RX Address LSB: 0xe7
+tick log cycle:0 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:1 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:2 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:3 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:4 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:5 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:6 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:7 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:8 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:9 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:10 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:11 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:12 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:13 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:14 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:15 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:16 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:17 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:18 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:19 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:20 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:21 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:22 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:23 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:24 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:25 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:26 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:27 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:28 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:29 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:30 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:31 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:32 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:33 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:34 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:35 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:36 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:37 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:38 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:39 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:40 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:41 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:42 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:43 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:44 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:45 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:46 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:47 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:48 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:49 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:50 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:51 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:52 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:53 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:54 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:55 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:56 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:57 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:58 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:59 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:60 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:61 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:62 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:63 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:64 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:65 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:66 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:67 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:68 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:69 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:70 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:71 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:72 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:73 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:74 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:75 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:76 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:77 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:78 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:79 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:80 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:81 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:82 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:83 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:84 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:85 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:86 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:87 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:88 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:89 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:90 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:91 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:92 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:93 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:94 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:95 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:96 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:97 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:98 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:99 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:100 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:101 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:102 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:103 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:104 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:105 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:106 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:107 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:108 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:109 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:110 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:111 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:112 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:113 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:114 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:115 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:116 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:117 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:118 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:119 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:120 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:121 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:122 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:123 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:124 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:125 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:126 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:127 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:128 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:129 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:130 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:131 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:132 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:133 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:134 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:135 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:136 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:137 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:138 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:139 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:140 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:141 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:142 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:143 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:144 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:145 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:146 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:147 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:148 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:149 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:150 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:151 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:152 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:153 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:154 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:155 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:156 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:157 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:158 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:159 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:160 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:161 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:162 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:163 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:164 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:165 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:166 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:167 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:168 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:169 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:170 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:171 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:172 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:173 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:174 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:175 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:176 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:177 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:178 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:179 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:180 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:181 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:182 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:183 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:184 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:185 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:186 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:187 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:188 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:189 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:190 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:191 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:192 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:193 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:194 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:195 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:196 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:197 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:198 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:199 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:200 - status:0x0 - config:0x3 - irq pin 1
+Hello STM32 Libs nRF
+Hello Mesh .... Powering Up the nRF
+setAirDataRate()
+setTxAddress()
+setRxAddress()
+setCrcWidth()
+nRF24L01+ Output power : 0 dBm
+nRF24L01+ Frequency    : 2402 MHz
+nRF24L01+ Data Rate    : 2000 kbps
+nRF24L01+ TX Address   : 0x000000000lX
+nRF24L01+ RX Address   : 0x000000000lX
+nRF24L01+ RX Address LSB: 0xe7
+tick log cycle:0 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:1 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:2 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:3 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:4 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:5 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:6 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:7 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:1 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:2 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:3 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:4 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:5 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:6 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:7 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:8 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:9 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:10 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:11 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:12 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:13 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:14 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:15 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:16 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:17 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:18 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:19 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:20 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:21 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:22 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:23 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:24 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:25 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:26 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:27 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:28 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:29 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:30 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:31 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:32 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:33 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:34 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:35 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 10 4b 9c 0 80 18 0 6a 3 4c ed 76 ba 33 ba ff ed b3 2e d8 b5 57 15 aa f7 27 2a 6a f7 6e
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 10 4b 9c 0 80 1a 0 6a 3 4c ed 6b bb 4f ea ac b2 f3 2b 29 13 44 da ab 52 32 7a 25
+tick log cycle:36 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:37 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:38 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:39 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:40 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 5 bb 6 48 3 ad 12 7a f6 9f e5 db ca b4 be b3 7b 6e af 4f f7 b3 ab ce dd f6 bb 55 bb 8a 8f bc
+tick log cycle:41 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:42 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:43 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:44 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:45 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:46 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:47 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:48 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:49 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:50 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:51 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:52 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:53 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:54 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:55 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:56 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:57 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:58 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:59 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:60 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:61 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 bb 7 58 a d7 2a 56 cc ea dd ad 76 c5 5e f7 3d fa ab 6a 9f f5 ce 67 93 ee bf 5e 7d 79
+tick log cycle:62 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:63 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:64 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:65 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:66 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:67 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:68 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:69 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 6 52 cd 0 81 18 0 48 b d 4 2f bb 60 74 9b e 2e 7b 4c 56 d3 55 b4 59 d9 b5 fe db df
+tick log cycle:70 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:71 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:72 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:73 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:74 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:75 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:76 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:77 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:78 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:79 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:80 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:81 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:82 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:83 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:84 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:85 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:86 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:87 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:88 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:89 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:90 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:91 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:92 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 7 54 df 0 7f 6 0 78 35 13 fc 6d 5e f8 5b c9 cd d7 d5 e9 3f fc 34 dd 6a b0 94 5a
+tick log cycle:93 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:94 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 10 4b 92 0 7f f2 0 4a 2a 8f e3 7b fd 6d ef c7 ff e8 d6 5f db 5b ba d7 ba bd 6a 95 7b f6
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 10 4b 92 0 7f f3 0 4a 2a 8f e3 6b b5 aa c7 b5 5d 55 f1 ca c3 6a b7 9f b1 7b 25 f8
+tick log cycle:95 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:96 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:97 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:98 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:99 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 5 ba 6 48 3 9 10 2b 76 ab 79 e3 a7 d5 ef b4 ab 7a 95 75 b3 ba 9c d7 12 b1 4d 54 8b c5 a6 93
+tick log cycle:100 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:101 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:102 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:103 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:104 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:105 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:106 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:107 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:108 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:109 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:110 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:111 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:112 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:113 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:114 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:115 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:116 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:117 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:118 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:119 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:120 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:121 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:122 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 bb 7 58 b d8 2b 63 f7 bb 75 bd a 27 be df f0 a8 ff 5c eb 59 ab ed 6d b1 dd 6f bb ea
+tick log cycle:123 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:124 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:125 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:126 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:127 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:128 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:129 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 6 56 4e 0 81 13 0 4c d 42 20 75 5c 93 d3 7d 65 ff 5e 59 5f d5 bc fe 9b d5 55 77 1b f5
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 6 56 ce 0 81 1a 0 48 d 82 30 57 b6 db 5d 3e e5 c6 f7 df f6 d5 f5 be fe bf e9 ab
+tick log cycle:130 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:131 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:132 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:133 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:134 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:135 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:136 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:137 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:138 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:139 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:140 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:141 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:142 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:143 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:144 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:145 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:146 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:147 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:148 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:149 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:150 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:151 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:152 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:153 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 3 e2 7 54 de 0 7f 9 0 78 38 1c 62 75 9b 99 6c 45 ba b3 d5 55 2d 75 a9 de af 3d b3 4d
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 7 79 13 12 0 f 0 cf b4 6d 73 9b b2 2a 9d b9 2a 2b bd 3c d2 ed 8c 1a cd 7 69 24 56 91 14 91
+tick log cycle:154 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 10 4b 90 0 7f ed 0 6a 27 76 a8 56 e7 d9 5a 6a 5a 65 fa 26 b0 76 65 25 57 95 2c e9 a9 e5
+tick log cycle:155 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:156 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:157 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:158 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:159 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 ba 6 48 0 ae 2 15 ae dd 56 f5 fd 43 6b 69 b7 fd 63 ae d5 49 4f 53 4a db 29 66 c6 56
+tick log cycle:160 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:161 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:162 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:163 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:164 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:165 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:166 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:167 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:168 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:169 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:170 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:171 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:172 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:173 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:174 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:175 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:176 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:177 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:178 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:179 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:180 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:181 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:182 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:183 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:184 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 bb 7 58 c d9 2c 6d 7a d1 1d 5b b7 ab 96 b6 d2 ed db ca c5 c7 ef 16 db 55 74 df 4b e7
+tick log cycle:185 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:186 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:187 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:188 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:189 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 6 44 c0 0 80 8 0 21 a2 c2 14 35 bb 5f 5e 5e fe f4 1b 79 ef 5b 67 35 9f cd 36 63 da 9f
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 4 14 91 0 81 8 0 6b d2 80 18 55 df d4 d6 da aa 5a 97 c a9 2f de a8 65 63 ea b5
+tick log cycle:190 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:191 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:192 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:193 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:194 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:195 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:196 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:197 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:198 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:199 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:200 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:201 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:202 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:203 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:204 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:205 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:206 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:207 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:208 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:209 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:210 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:211 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:212 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:213 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 0 4b 9b 0 80 a 0 4a 31 36 c 5d db 7d 5d 77 6 f7 55 5a fd 9b f5 7a eb ff b3 f4 6b f5
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 10 4b 9b 0 80 b 0 6a 31 37 8 5f ab da a8 34 6e e8 c3 5d b9 b7 c9 b4 dc 9f 2d a7
+tick log cycle:214 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:215 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:216 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:217 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:218 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:219 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 5 3a 6 48 0 a8 12 2b 55 5d f7 71 12 d4 b7 a9 69 39 d5 52 c2 7c 96 db a5 5c 4a 81 5c a8 82 1d
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 3b 6 48 4 c 1 73 37 4f 5d af d7 19 55 55 66 55 4d 44 a9 d5 0 b7 bf fb dd 5f ff 76
+tick log cycle:220 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:221 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:222 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:223 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:224 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:225 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:226 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:227 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:228 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:229 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:230 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:231 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:232 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:233 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:234 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:235 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:236 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:237 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:238 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:239 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:240 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:241 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:242 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:243 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:244 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:245 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 bb 7 58 c d9 2c 6f 7b 6d 5b ba bd 4b eb 2f e2 fd 5a bb 65 73 f7 55 6e b9 6d c4 bf f5
+tick log cycle:246 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:247 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:248 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:249 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:250 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:251 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:252 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:253 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:254 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:255 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:256 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:257 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:258 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:259 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:260 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:261 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:262 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:263 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:264 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:265 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:266 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:267 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:268 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:269 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:270 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:271 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:272 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:273 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 10 4b 87 0 7f fd 0 42 54 4 15 2e d3 bd e7 b7 ef 4f ab db f6 f5 5d 6d d2 f5 53 ca e6 b9
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 10 4b 97 0 7f fd 0 6a 54 5 1d 75 b5 7f e3 69 7e e7 17 fd b2 d5 b7 c5 3e ab 3b bb
+tick log cycle:274 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:275 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 7 55 df 0 7f f 0 78 3c 3e 6c 6e fc ff bf ce f2 bd 4b 69 2a ad aa 14 db 55 4a 8b
+tick log cycle:276 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:277 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:278 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 5 bb 6 48 5 af 4 7f fb 7f 77 45 ff 9f ad 6b be d6 a5 5f cb f6 cc bf cf 5d 7d d7 d4 b2 ad bb
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 1 3a 6 75 99 3f 3b 67 a b6 bd 77 4c 9e 2f f5 59 d5 5f 7c de 16 b3 cb c6 b2 7a f8 5a eb
+tick log cycle:279 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:280 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:281 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:282 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:283 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:284 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:285 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:286 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:287 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:288 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:289 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:290 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:291 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:292 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:293 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:294 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:295 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:296 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:297 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:298 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:299 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:300 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:301 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:302 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:303 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:304 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:305 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:306 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 bb 7 58 c d9 2c 5b 66 cf bf 4d ef ad aa ad b6 6b bf 95 ba d6 da da 9d d9 6a b7 c5 7b
+tick log cycle:307 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:308 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 6 56 8f 0 81 8 0 48 2 a0 20 33 75 53 5f fa ae 26 ee dd d2 ba 95 7d 72 c9 cf 83 ca d5
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b c2 4 56 87 0 81 10 0 48 0 a0 20 7f a8 77 cf 66 a9 7d bf 2d d3 56 fb 44 34 54 5 4b
+tick log cycle:309 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:310 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:311 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:312 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:313 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:314 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:315 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:316 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:317 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:318 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:319 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:320 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:321 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:322 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:323 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:324 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:325 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:326 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:327 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:328 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:329 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:330 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:331 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:332 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 10 4b 8f 0 7f e8 0 4a 96 ba 42 7e fe 3f ef d5 7c 3d 7d f5 d5 c8 65 a0 b1 ea 6c ed 73 99
+tick log cycle:333 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:334 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:335 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:336 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:337 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 7 54 dd 0 7f a 0 78 3c 1c 4e 5e 9e 2b ea 6c d7 a9 bf 5a bb dc d5 d6 f5 ee b3 f3
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 7 79 13 12 0 f 0 cf b4 74 c7 42 b2 8e a4 cc 9e 9b 56 a5 55 8b 8d 20 82 2e 54 5a 65 6b 62 2c
+tick log cycle:338 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 5 bb 6 48 5 2e 14 35 df 97 56 7d bf ff ef 48 d 5c a3 63 df bb 5d bf 69 49 8e 97 a7 db 79 eb
+tick log cycle:339 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:340 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:341 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:342 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:343 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:344 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:345 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:346 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:347 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:348 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:349 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:350 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:351 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:352 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:353 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:354 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:355 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:356 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:357 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:358 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:359 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:360 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:361 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:362 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:363 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:364 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:365 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:366 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:367 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 bb 7 58 b d8 2b 6d b4 fd 75 4c bc fe ef 66 d7 dd dd d4 a 95 27 6d 12 22 ce 36 ab 9
+tick log cycle:368 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 6 54 8e 0 81 10 0 48 a 20 28 2 b4 bf 5f fa 67 6e a6 bd ed ed f6 fa d5 55 35 1f a9 ea
+tick log cycle:369 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:370 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:371 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:372 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:373 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:374 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:375 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:376 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:377 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:378 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:379 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:380 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:381 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:382 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:383 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:384 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:385 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:386 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:387 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:388 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:389 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:390 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:391 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:392 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 10 4b 8b 0 7f e7 0 6a b6 ba 5d 5f fd 6b 7d eb df df 68 6b 6f 7b 7b d6 ff ff 7f f1 ff bf
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 10 4b 83 0 7f e7 0 6a b6 ba 5d 56 7d ef f5 ee f0 d3 7e fe fe ef db 25 ae f7 d7 db
+tick log cycle:393 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:394 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:395 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:396 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:397 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:398 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 5 bb 6 48 0 24 13 57 7b 97 ed 2d 87 6d 76 21 41 c1 42 85 0 90 40 50 2 90 a 0 29 65 2a eb
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 7 54 db 0 7f 7 0 78 47 d ff 6d 7f ae cf 56 b7 f9 3b 56 df 8d bf 5e c6 c6 9a c9
+tick log cycle:399 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:400 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:401 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:402 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:403 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:404 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:405 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:406 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:407 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:408 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:409 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:410 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:411 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:412 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:413 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:414 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:415 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:416 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:417 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:418 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:419 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:420 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:421 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:422 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:423 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:424 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:425 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:426 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:427 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:428 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 6 46 cf 0 81 1a 0 48 12 84 38 5 55 7c 58 6d f9 7a e6 e5 c5 f3 5b 63 1a 56 c7 7a b7 2e
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 1 5f f7 a7 ff ef 2a d9 9f 5a ed 51 de fe 6d bb ef f7 bf ff fb ed af ff ff df ff d7 ff ef ef
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 bb 7 58 c d9 2c 5f d1 9d af 6b 3f 96 fa f7 d5 9d fd 5c d9 3a 6a eb 2f e8 ff ed 55 5b
+tick log cycle:429 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:430 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:431 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:432 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:433 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:434 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:435 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:436 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:437 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:438 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:439 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:440 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:441 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:442 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:443 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:444 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:445 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:446 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:447 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:448 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:449 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:450 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:451 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:452 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x b e2 10 4b 89 0 7f e0 0 6a 87 61 25 6e ef ea 77 76 a9 6d fc bf a9 5d c4 eb d9 ff b8 a5 fd c7
+tick log cycle:453 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:454 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:455 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:456 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:457 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 5 bb 6 48 3 ad 12 7d 17 7a ef 25 9b a9 5f 5f f5 d4 8d 3f fd df 4d dd 9d 6e ff 5f b6 e8 f9 f1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 5 3b 6 8 2 a8 2 69 6e 7d 46 cd af 7a ff 72 eb b2 2b b5 de ca b2 e8 5b 76 ef f7 48 e5
+tick log cycle:458 - status:0xe - config:0x3 - irq pin 1
+tick log cycle:459 - status:0xe - config:0x3 - irq pin 1
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x df 0 b e2 7 54 df 0 7f a 0 78 45 33 70 5e 6e 6c ba e9 5b da ac 9f d3 d5 5a da 9a 8f 96 14
+from nrf IRQ
+rf>>> I got a message
+status:0x40 - config:0x3 - irq pin 0
+Rx message Handler : 0x 7 79 13 12 0 10 0 d1 b5 7e ea 64 f3 ad 74 33 66 db bf 25 ea ed 2c ee d5 6a 9a ae ed 7f 7d 5a
+tick log cycle:460 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:461 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:462 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:463 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:464 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:465 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:466 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:467 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:468 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:469 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:470 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:471 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:472 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:473 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:474 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:475 - status:0x0 - config:0x3 - irq pin 1
+tick log cycle:476 - status:0x0 - config:0x3 - irq pin 1
