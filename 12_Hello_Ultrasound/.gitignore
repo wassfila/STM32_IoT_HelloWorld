@@ -1,0 +1,7 @@
+.temp/
+BUILD/
+*.pyc
+*.log
+mbed-os/
+HC_SR04_Ultrasonic_Library/
+.settings/

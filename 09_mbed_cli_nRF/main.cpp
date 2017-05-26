@@ -2,8 +2,10 @@
 #include "nRF24L01P.h"
 
 Serial pc(PB_10, PB_11, 115200);
-
-nRF24L01P my_nrf24l01p(PB_15, PB_14, PB_13, PB_12, PA_8, PA_9);    // mosi, miso, sck, csn, ce, irq
+//first test design
+//nRF24L01P my_nrf24l01p(PB_15, PB_14, PB_13, PB_12, PA_8, PA_9);    // mosi, miso, sck, csn, ce, irq
+//BluePill Expansion design
+nRF24L01P my_nrf24l01p(PA_7, PA_6, PA_5, PA_4, PC_15, PA_0);    // mosi, miso, sck, csn, ce, irq
 
 DigitalOut myled1(LED1);
 //DigitalOut myled2(LED2);

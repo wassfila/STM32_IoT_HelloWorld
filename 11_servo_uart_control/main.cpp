@@ -3,7 +3,8 @@
 
 //FlashIAP flash;
 
-Serial   rasp(PB_10, PB_11, 115200);
+Serial   rasp(PA_2, PA_3, 9600);
+//Serial   rasp(PB_10, PB_11, 115200);
 
 DigitalOut myled(PC_13);
 //DigitalOut Uart_Int(PA_8);
