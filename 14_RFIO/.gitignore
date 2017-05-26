@@ -1,0 +1,8 @@
+.temp/
+BUILD/
+*.pyc
+mbed-os/
+nrf-mesh/
+Servo/
+.settings/
+.vscode/
