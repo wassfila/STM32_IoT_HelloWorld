@@ -4,5 +4,7 @@ BUILD/
 mbed-os/
 nrf-mesh/
 Servo/
+safe-uart/
+crc/
 .settings/
 .vscode/

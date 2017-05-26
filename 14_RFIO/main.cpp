@@ -2,6 +2,7 @@
 
 #include "rfmesh.h"
 #include "Servo.h"
+#include "suart.h"
 
 Serial   rasp(PB_10, PB_11, 115200);
 DigitalOut myled(PC_13);
@@ -9,6 +10,8 @@ Ticker tick_call;
 //nRF Modules 1:Gnd, 2:3.3v, 3:ce,  4:csn, 5:sck, 6:mosi, 7:miso, 8:irq 
 //RFPIO Layout !!!!
 RfMesh mesh(&rasp,           PA_5,  PB_12, PB_13, PB_15, PB_14, PA_4);
+
+suart com(&rasp);
 
 Servo ser_m11(PA_8);
 Servo ser_m12(PA_9);
@@ -33,6 +36,11 @@ void the_ticker()
 {
     myled = !myled;
     
+}
+
+void uart_message_received(uint8_t *data)
+{
+    rasp.printf("OK message received with &d Bytes\n",data[0]);
 }
 
 void rf_message_received(uint8_t *data,uint8_t size)
@@ -72,6 +80,7 @@ void init()
     mesh.init();//left to the user for more flexibility on memory management
     mesh.attach(&rf_message_received,RfMesh::CallbackType::Message);
 
+    com.attach(uart_message_received);
 
 }
 
