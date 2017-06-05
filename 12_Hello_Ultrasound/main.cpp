@@ -44,6 +44,6 @@ int main()
     {
         wait(1.0);
         rasp.printf("Sending Echo\n");
-        mySens.send_echo();
+        mySens.trigger();
     }
 }
