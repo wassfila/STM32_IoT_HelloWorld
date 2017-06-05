@@ -1,0 +1,6 @@
+.temp/
+BUILD/
+mbed-os/
+nRF24L01P/
+.settings/
+.vscode/

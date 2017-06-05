@@ -1,0 +1,5 @@
+.temp/
+BUILD/
+mbed-os/
+.settings/
+.vscode/

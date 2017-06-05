@@ -1,0 +1,6 @@
+.temp/
+BUILD/
+mbed-os/
+mbed-STM32F103C8T6/
+.settings/
+.vscode/

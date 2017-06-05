@@ -1,8 +1,6 @@
 .temp/
 BUILD/
-*.pyc
-*.log
 mbed-os/
 Servo/
-HC_SR04_Ultrasonic_Library/
 .settings/
+.vscode/
