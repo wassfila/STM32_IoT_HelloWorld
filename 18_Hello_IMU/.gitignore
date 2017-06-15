@@ -1,0 +1,9 @@
+.temp/
+BUILD/
+*.pyc
+mbed-os/
+nrf-mesh/
+crc/
+mpu6050/
+.settings/
+.vscode/
