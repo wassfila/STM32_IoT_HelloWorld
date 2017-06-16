@@ -4,87 +4,62 @@
 
 #include "mpu6050.h"
 
-float sum = 0;
-uint32_t sumCount = 0;
- 
-MPU6050 mpu6050(PB_7,PB_6);
-Timer t;
-
+DigitalOut pintest(PB_13);
 Serial   rasp(PB_10, PB_11, 115200);
 DigitalOut myled(PC_13);
-DigitalOut timetest(PA_15);
 Ticker tick_call;
-//nRF Modules 1:Gnd, 2:3.3v, 3:ce,  4:csn, 5:sck, 6:mosi, 7:miso, 8:irq 
-//RFPIO Layout !!!!
-RfMesh mesh(&rasp,           PA_5,  PB_12, PB_13, PB_15, PB_14, PA_4);
+ 
+MPU6050 mpu6050(&rasp,PB_7,PB_6);
+bool isMPU_Ready = false;
+Timer t;
 
+
+#define USE_RF_MESH 0
+//nRF Modules 1:Gnd, 2:3.3v, 3:ce,  4:csn, 5:sck, 6:mosi, 7:miso, 8:irq 
+#if BOARD_IS_RF_DONGLE ==1
+    #if USE_RF_MESH ==1
+    RfMesh mesh(&rasp,           PC_15, PA_4, PA_5,   PA_7,  PA_6,    PA_0);
+    #endif
+#endif
+
+int16_t accelVals[3];  // Stores the 16-bit signed accelerometer sensor output
+int16_t gyroVals[3];   // Stores the 16-bit signed gyro sensor output
+bool inUpdate = false;
 void the_ticker()
 {
     myled = !myled;
-    
+    if(!inUpdate && isMPU_Ready)
+    {
+        rasp.printf("Accel : %d %d %d ; Gyro : %d %d %d\n", accelVals[0],accelVals[1],accelVals[2],gyroVals[0],gyroVals[1],gyroVals[2]); 
+    }
 }
 void rf_message_received(uint8_t *data,uint8_t size)
 {
-    /*rasp.printf("rf>Rx message Handler : 0x");
+    rasp.printf("rf>Rx message Handler : 0x");
     for(int i = 0; i < size; i++)
     {
         rasp.printf(" %02x",data[i]);
     }
-    rasp.printf("\r\n");*/
+    rasp.printf("\r\n");
 }
 
 void init()
 {
-
     rasp.printf("Hello Inertial Motion Unit\n");
-
-
     tick_call.attach(&the_ticker,1);
 
+#if USE_RF_MESH == 1
     mesh.init();//left to the user for more flexibility on memory management
     mesh.nrf.selectChannel(22);
     mesh.attach(&rf_message_received,RfMesh::CallbackType::Message);
-
-    timetest = 0;
+#endif
 
     // Read the WHO_AM_I register, this is a good test of communication
-    wait_ms(10);
-    uint8_t whoami = mpu6050.readByte(MPU6050_ADDRESS, WHO_AM_I_MPU6050);  // Read WHO_AM_I register for MPU-6050
-    rasp.printf("I AM 0x%x\n\r", whoami);
-    rasp.printf("I SHOULD BE 0x68\n\r");
-  
-    if (whoami == 0x68) // WHO_AM_I should always be 0x68
-    {  
-        rasp.printf("MPU6050 is online...");
-        wait(1);
-
-        mpu6050.MPU6050SelfTest(mpu6050.SelfTest); // Start by performing self test and reporting values
-        rasp.printf("x-axis self test: acceleration trim within : "); rasp.printf("%f", mpu6050.SelfTest[0]); rasp.printf("% of factory value \n\r");
-        rasp.printf("y-axis self test: acceleration trim within : "); rasp.printf("%f", mpu6050.SelfTest[1]); rasp.printf("% of factory value \n\r");
-        rasp.printf("z-axis self test: acceleration trim within : "); rasp.printf("%f", mpu6050.SelfTest[2]); rasp.printf("% of factory value \n\r");
-        rasp.printf("x-axis self test: gyration trim within : "); rasp.printf("%f", mpu6050.SelfTest[3]); rasp.printf("% of factory value \n\r");
-        rasp.printf("y-axis self test: gyration trim within : "); rasp.printf("%f", mpu6050.SelfTest[4]); rasp.printf("% of factory value \n\r");
-        rasp.printf("z-axis self test: gyration trim within : "); rasp.printf("%f", mpu6050.SelfTest[5]); rasp.printf("% of factory value \n\r");
-        wait(1);
-
-        if(mpu6050.SelfTest[0] < 1.0f && mpu6050.SelfTest[1] < 1.0f && mpu6050.SelfTest[2] < 1.0f && mpu6050.SelfTest[3] < 1.0f && mpu6050.SelfTest[4] < 1.0f && mpu6050.SelfTest[5] < 1.0f) 
-        {
-            mpu6050.resetMPU6050(); // Reset registers to default in preparation for device calibration
-            mpu6050.calibrateMPU6050(mpu6050.gyroBias, mpu6050.accelBias); // Calibrate gyro and accelerometers, load biases in bias registers  
-            mpu6050.initMPU6050(); rasp.printf("MPU6050 initialized for active data mode....\n\r"); // Initialize device for active mode read of acclerometer, gyroscope, and temperature
-            wait(2);
-        }
-        else
-        {
-            rasp.printf("Device did not the pass self-test!\n\r");
-        }
-    }
-    else
+    if(mpu6050.isPresent())
     {
-        rasp.printf("Could not connect to MPU6050: \n\r");
-        rasp.printf("%#x \n",  whoami);
+        mpu6050.startup();
+        isMPU_Ready = true;
     }
-
 }
 
 int main() 
@@ -93,13 +68,21 @@ int main()
 
     while(1) 
     {
-        //wait_ms(1000);
         // If data ready bit set, all data registers have new data
-        if(mpu6050.readByte(MPU6050_ADDRESS, INT_STATUS) & 0x01) 
-        {  // check if data ready interrupt
-            mpu6050.readAccelData(mpu6050.accelCount);  // Read the x/y/z adc values
-            rasp.printf("0x%X 0x%X 0x%X\r\n", mpu6050.accelCount[0],mpu6050.accelCount[1],mpu6050.accelCount[2]); 
+        if(isMPU_Ready)
+        {
+            if(mpu6050.readByte(INT_STATUS) & 0x01) 
+            {  // check if data ready interrupt
+                inUpdate = true;// lock to avoid partial data update
+                mpu6050.readAccelData(accelVals);  // Read the x/y/z adc values ~ 300 us
+                mpu6050.readGyroData(gyroVals);
+                inUpdate = false;
+            }
+            wait_ms(10);//give some fresh air for low prio ticker to run without missing cycles
         }
-
+        else
+        {
+            wait_ms(1000);
+        }
     }
 }
