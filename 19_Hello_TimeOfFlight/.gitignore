@@ -2,10 +2,6 @@
 BUILD/
 *.pyc
 mbed-os/
-nrf-mesh/
-crc/
-mpu6050/
+vl53l0x-mbedos/
 .settings/
 .vscode/
-X_NUCLEO_53L0A1/
-vl53l0x/
