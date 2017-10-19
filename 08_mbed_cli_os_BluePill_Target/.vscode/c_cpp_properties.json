@@ -107,7 +107,8 @@
                     "${workspaceRoot}\\mbed-os\\targets\\TARGET_STM\\TARGET_STM32F1\\TARGET_BLUEPILL_F103C8\\device\\*",
                     "${workspaceRoot}\\mbed-os\\targets\\TARGET_STM\\TARGET_STM32F1\\TARGET_BLUEPILL_F103C8\\device\\TOOLCHAIN_GCC_ARM\\*"
                 ]
-            }
+            },
+            "intelliSenseMode": "msvc-x64"
         },
         {
             "includePath": [
@@ -216,7 +217,12 @@
                     "${workspaceRoot}/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_BLUEPILL_F103C8/device/*",
                     "${workspaceRoot}/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_BLUEPILL_F103C8/device/TOOLCHAIN_GCC_ARM/*"
                 ]
-            }
+            },
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ]
         },
         {
             "includePath": [
@@ -325,7 +331,9 @@
                     "${workspaceRoot}/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_BLUEPILL_F103C8/device/*",
                     "${workspaceRoot}/mbed-os/targets/TARGET_STM/TARGET_STM32F1/TARGET_BLUEPILL_F103C8/device/TOOLCHAIN_GCC_ARM/*"
                 ]
-            }
+            },
+            "intelliSenseMode": "clang-x64"
         }
-    ]
+    ],
+    "version": 3
 }

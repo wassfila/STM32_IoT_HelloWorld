@@ -1,0 +1,5 @@
+speed 4000
+power off
+sleep 500
+power on
+exit
