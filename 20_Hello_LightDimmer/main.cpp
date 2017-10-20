@@ -4,6 +4,10 @@
 #include "dimm.h"
 #include "utils.h"
 
+//------------------------------------- CONFIG -----------------------------------------
+const uint8_t CHANNEL = 10;
+const uint8_t NODEID = 25;
+//--------------------------------------------------------------------------------------
 
 Serial   rasp(PB_10, PB_11, 115200);
 DigitalOut myled(PC_13);
@@ -24,22 +28,37 @@ void the_ticker()
 void rf_message_received(uint8_t *data,uint8_t size)
 {
     rasp.printf("rf>Rx message Handler :");
-    print_tab(&rasp,data,size);
-
-    if((data[0] == 5) && (data[1] = 'B') )
+    //print_tab(&rasp,data,size);
+    if(data[0x01] == 0x1B)//pid : light
     {
+        uint16_t light_val = data[4];
+        light_val <<=8;
+        light_val += data[5];
+        rasp.printf("light %d\r",light_val);
+        dimmer.set_level(0,light_val);
+        dimmer.set_level(1,light_val);
+        dimmer.set_level(2,light_val);
+        dimmer.set_level(3,light_val);
     }
 }
 
 void init()
 {
+	uint8_t * p_UID = (uint8_t*) 0x1FFFF7E8;
+	
+	rasp.printf("Light Dimmer> U_ID: ");
+	print_tab(&rasp,p_UID,12);
+	rasp.printf("Light Dimmer> Node ID: %d\r",NODEID);
 
-    rasp.printf("Hello Light Dimmer\n");
+    rasp.printf("Hello Light Dimmer\r");
 
 
     tick_call.attach(&the_ticker,1);
 
-    hsm.init(10);//RF Channel 10
+    hsm.init(CHANNEL);
+    rasp.printf("Light Dimmer listening at channel %d\r",CHANNEL);
+	hsm.setNodeId(NODEID);
+
     hsm.attach(&rf_message_received,RfMesh::CallbackType::Message);
 
 }
@@ -50,6 +69,8 @@ int main()
 
     while(1) 
     {
-        wait(1);
+        wait(10);
+        rasp.printf("Nb int : %d\r",dimmer.intCount);
+        dimmer.intCount = 0;
     }
 }

@@ -4,6 +4,7 @@ BUILD/
 mbed-os/
 nrf-mesh/
 crc/
+dimm/
 APDS_9960/
 .settings/
 .vscode/
