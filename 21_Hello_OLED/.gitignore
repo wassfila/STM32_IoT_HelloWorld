@@ -1,0 +1,9 @@
+.temp/
+BUILD/
+*.pyc
+mbed-os/
+nrf-mesh/
+crc/
+.settings/
+.vscode/
+SSD1308_128x64_I2C/
