@@ -17,8 +17,8 @@ Ticker tick_call;
 //RFPIO Layout !!!!
 RfMesh hsm(&rasp,           PA_5,  PB_12, PB_13, PB_15, PB_14, PA_4);
 
-//                  sync,ch1,2,   3,    4
-Dimm dimmer(&rasp,PB_3,PA_15,PA_8,PA_9,PA_10,PA_11);
+//                  sync,       ch1,2,   3,    4
+Dimm dimmer(&rasp,PB_4,PB_5,   PA_8,PA_9,PA_10,PA_11,   PA_15,PB_3,PA_3,PA_2);
 
 
 void the_ticker()

@@ -39,26 +39,28 @@ void init()
     mesh.init();//left to the user for more flexibility on memory management
     mesh.attach(&rf_message_received,RfMesh::CallbackType::Message);
 
+
     if ( GSensor.ginit() ) {
         rasp.printf("APDS-9960 initialization complete\n\r");
     } else {
         rasp.printf("Something went wrong during APDS-9960 init\n\r");
     }
  
+
+}
+
+void init_gesture()
+{
     // Start running the APDS-9960 gesture sensor engine
     if ( GSensor.enableGestureSensor(true) ) {
         rasp.printf("Gesture sensor is now running\n\r");
     } else {
         rasp.printf("Something went wrong during gesture sensor init!\n\r");
     }
-
-
 }
 
-int main() 
+void poll_gesture()
 {
-    init();
-
     while(1) 
     {
         if ( GSensor.isGestureAvailable() ) {
@@ -86,4 +88,44 @@ int main()
         }
         wait(0.010);
     }
+
+}
+
+void init_light()
+{
+    
+    if ( GSensor.enableLightSensor() ) 
+    {
+        rasp.printf("Light sensor is on\n\r");
+    } else 
+    {
+        rasp.printf("Something went wrong during light sensor init!\n\r");
+    }
+}
+
+void poll_light()
+{
+    while(true)
+    {
+        uint16_t val,R,G,B;
+        GSensor.readAmbientLight(val);
+        GSensor.readRedLight(R);
+        GSensor.readGreenLight(G);
+        GSensor.readBlueLight(B);
+        rasp.printf("Light : %d ; R:%d, G:%d, B:%d\r\n",val,R,G,B);
+        wait(1);
+    }
+}
+
+int main() 
+{
+    init();
+
+    init_gesture();
+    poll_gesture();
+
+    //init_light();
+    //poll_light();
+
+
 }
