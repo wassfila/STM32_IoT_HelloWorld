@@ -1,32 +1,18 @@
 #include "mbed.h"
 
-#include "rfmesh.h"
 #include "glibr.h"
 
 //RFNode pinout
-glibr GSensor(PB_7,PB_6);
+glibr gsensor(PB_7,PB_6);
 
 Serial   rasp(PB_10, PB_11, 115200);
 DigitalOut myled(PC_13);
 Ticker tick_call;
-//nRF Modules 1:Gnd, 2:3.3v, 3:ce,  4:csn, 5:sck, 6:mosi, 7:miso, 8:irq 
-//RFPIO Layout !!!!
-RfMesh mesh(&rasp,           PA_5,  PB_12, PB_13, PB_15, PB_14, PA_4);
 
 void the_ticker()
 {
     myled = !myled;
     
-}
-
-void rf_message_received(uint8_t *data,uint8_t size)
-{
-    rasp.printf("rf>Rx message Handler : 0x");
-    for(int i = 0; i < size; i++)
-    {
-        rasp.printf(" %02x",data[i]);
-    }
-    rasp.printf("\r\n");
 }
 
 void init()
@@ -36,24 +22,24 @@ void init()
 
     tick_call.attach(&the_ticker,1);
 
-    mesh.init();//left to the user for more flexibility on memory management
-    mesh.attach(&rf_message_received,RfMesh::CallbackType::Message);
+    rasp.printf("before init Mode is : %u\n",gsensor.getMode());
 
-
-    if ( GSensor.ginit() ) {
+    if ( gsensor.ginit() ) {
         rasp.printf("APDS-9960 initialization complete\n\r");
     } else {
         rasp.printf("Something went wrong during APDS-9960 init\n\r");
     }
  
+    rasp.printf("after init Mode is : %u\n",gsensor.getMode());
 
 }
 
 void init_gesture()
 {
     // Start running the APDS-9960 gesture sensor engine
-    if ( GSensor.enableGestureSensor(true) ) {
+    if ( gsensor.enableGestureSensor(false) ) {
         rasp.printf("Gesture sensor is now running\n\r");
+        rasp.printf("Mode is : %u\n",gsensor.getMode());
     } else {
         rasp.printf("Something went wrong during gesture sensor init!\n\r");
     }
@@ -63,8 +49,8 @@ void poll_gesture()
 {
     while(1) 
     {
-        if ( GSensor.isGestureAvailable() ) {
-            switch ( GSensor.readGesture() ) {
+        if ( gsensor.isGestureAvailable() ) {
+            switch ( gsensor.readGesture() ) {
                 case DIR_UP:
                     rasp.printf("UP\n");
                     break;
@@ -94,7 +80,7 @@ void poll_gesture()
 void init_light()
 {
     
-    if ( GSensor.enableLightSensor() ) 
+    if ( gsensor.enableLightSensor() ) 
     {
         rasp.printf("Light sensor is on\n\r");
     } else 
@@ -108,10 +94,10 @@ void poll_light()
     while(true)
     {
         uint16_t val,R,G,B;
-        GSensor.readAmbientLight(val);
-        GSensor.readRedLight(R);
-        GSensor.readGreenLight(G);
-        GSensor.readBlueLight(B);
+        gsensor.readAmbientLight(val);
+        gsensor.readRedLight(R);
+        gsensor.readGreenLight(G);
+        gsensor.readBlueLight(B);
         rasp.printf("Light : %d ; R:%d, G:%d, B:%d\r\n",val,R,G,B);
         wait(1);
     }
@@ -121,11 +107,25 @@ int main()
 {
     init();
 
-    init_gesture();
-    poll_gesture();
+    //init_gesture();
+    //poll_gesture();
 
     //init_light();
     //poll_light();
 
+    bool res = gsensor.enableProximitySensor();
+    rasp.printf("enableProximitySensor: %u\n",res);
+    uint8_t value = 0;
+    while(true)
+    {
+        uint8_t val;
+        gsensor.readProximity(val);
+        if(val > 30)
+        {
+            value = val;
+            rasp.printf("set value(%u)\n",value);
+        }
+        wait(0.1);
+    }
 
 }
